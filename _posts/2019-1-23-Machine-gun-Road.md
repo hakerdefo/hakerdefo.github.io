@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Machine gun Road (short story)
-...
+---
 
-"Fiction is fact distilled into truth."  
-~ Edward Albee  
-## INTRO
+"Fiction is fact distilled into truth."
+~ Edward Albee
+
+#### INTRO
 Dark. Damp. London?  
 Can't be! I don't have a passport.  
 Time? Feels like midnight to my aching bones.  
@@ -43,7 +44,7 @@ I hate rains!
 Rains laced with gases and chemicals.  
 Rains pouring misery, confusion and depression on the ground.  
 Dark. Damp. London must be the junkie capitol of the world.  
-## OUTRO
+#### OUTRO
 "B.I.T.C.H."  
 *"Get your gator ass off the sofa!"*  
 Time?  
