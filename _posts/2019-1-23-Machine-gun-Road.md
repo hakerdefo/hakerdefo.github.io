@@ -3,8 +3,8 @@ layout: post
 title: Machine gun Road (short story)
 ---
 
-"Fiction is fact distilled into truth."
-~ Edward Albee
+"Fiction is fact distilled into truth."  
+~ Edward Albee  
 
 #### INTRO
 Dark. Damp. London?  
