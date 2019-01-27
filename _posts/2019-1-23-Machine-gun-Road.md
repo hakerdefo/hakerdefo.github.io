@@ -7,7 +7,8 @@ title: Machine gun Road (short story)
 ~ Edward Albee  
 
 #### INTRO
-Dark. Damp. London?  
+Dark. Damp. Cold.  
+London?  
 Can't be! I don't have a passport.  
 Time? Feels like midnight to my aching bones.  
 Can't be! The stereo is playing loudly.  
@@ -43,7 +44,8 @@ I hate it!
 I hate rains!  
 Rains laced with gases and chemicals.  
 Rains pouring misery, confusion and depression on the ground.  
-Dark. Damp. London must be the junkie capitol of the world.  
+Dark. Damp. Cold.  
+London must be the junkie capitol of the world.  
 #### OUTRO
 "B.I.T.C.H."  
 *"Get your gator ass off the sofa!"*  
@@ -82,7 +84,7 @@ The fucking thing has been fucking playing in my fucking head! Fucking Led fucki
 *"He'll be here soon, don't worry."*  
 Mali the peddler. Mali the gimp. I hate the motherfucker but circumstances in which I get to meet him makes him look like a limping angel slowly limping his way across the street towards the tea stall where we are sitting. Mali the gimp I love him!  
 *"What do you mean you don't have Madhubala? Don't play games with me Mali! Didn't I pay you upfront?"*  
-What? No Madhubala? Mali the gimp! I hate this bastard! He likes to brag how a police bullet is the reason for his limp but in reality his wife broke his leg after catching him in bed with her mother. How wonderful it would have been had she broken his another leg too! Wait! How would Mali supply us without a single leg? No! No! That can't be! After all, Mali is not that bad. He has a sense of humor too. Madhubala for heroin, Coca Cola for cocaine, Machine gun Road for A.K. Road. Mali the gimp I love him!  
+What? No Madhubala? Mali the gimp! I hate this bastard! He likes to brag how a police bullet is the reason for his limp but in reality his wife broke his leg after catching him in bed with her own mother. How wonderful it would have been had she broken his another leg too! Wait! How would Mali supply us without a single leg? No! No! That can't be! Mali is an okay mother-in-law-fucker. He has a sense of humor too. Madhubala for heroin, Coca Cola for cocaine, Machine gun Road for A.K. Road. Mali the gimp I love him!  
 *"Okay then, fix us some Coca Cola for now and make sure you get us Madhubala by the weekend."*  
 What? No Madhubala till the weekend! The whole fucking week is jam-packed with practical classes! How will I survive without Madhubala?  
 . . . "Fuck!"  
