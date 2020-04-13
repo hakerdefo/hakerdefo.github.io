@@ -75,9 +75,11 @@ Fuck!
 The fucking thing has been fucking playing in my fucking head! Fucking Led fucking Zeppelin!  
 "Where are you going?"  
 *"We are going. Machine gun Road. Mali's place."* . . .  
+. . . T . . . I . . . M . . . E . . .  . . . L . . . A . . . P . . . S . . . E . . .  
 . . . She is an angel. Especially when she is driving. Angel of death. While driving she only deals in millimeters. Millimeters away from vehicles. Millimeters away from accidents. Millimeters away from death.  
 "The fucking thing only has two wheels and it can't fucking fly!"  
 *"Mama's gator boy is scared! I hope baby gator's got his diapers on!"* . . .  
+. . . T . . . I . . . M . . . E . . .  . . . L . . . A . . . P . . . S . . . E . . .  
 . . . "Fuck! My fucking tongue!"  
 *"The tea is hot gator boy."*  
 "Where the hell is Mali the motherfucker?"  
@@ -87,12 +89,14 @@ Mali the peddler. Mali the gimp. I hate the motherfucker but circumstances in wh
 What? No Madhubala? Mali the gimp! I hate this bastard! He likes to brag how a police bullet is the reason for his limp but in reality his wife broke his leg after catching him in bed with her own mother. How wonderful it would have been had she broken his another leg too! Wait! How would Mali supply us without a single leg? No! No! That can't be! Mali is an okay mother-in-law-fucker. He has a sense of humor too. Madhubala for heroin, Coca Cola for cocaine, Machine gun Road for A.K. Road. Mali the gimp I love him!  
 *"Okay then, fix us some Coca Cola for now and make sure you get us Madhubala by the weekend."*  
 What? No Madhubala till the weekend! The whole fucking week is jam-packed with practical classes! How will I survive without Madhubala? . . .  
+. . . T . . . I . . . M . . . E . . .  . . . L . . . A . . . P . . . S . . . E . . .  
 . . . "Fuck!"  
 *"Sorry about that gator boy! I didn't see that fucking pothole!"*  
 "Why are we stopping?"  
 *"Gotta get us some food. Aren't you hungry?"*  
 "I need Madhubala!"  
 *"Gotta do with Coca Cola for now gator boy. I'm ordering sandwiches for us."* . . .  
+. . . T . . . I . . . M . . . E . . .  . . . L . . . A . . . P . . . S . . . E . . .  
 . . . Lines. Holy lines. Five of them. Five lines and two persons? Three for me and two for her? Or Three for her and two for me? I hate fucking math!  
 *"What are you doing? We are not snorting before sandwiches. I'm going for a quick shower so you be a good gator baby and wait for me."*  
 She has a habit of singing and humming while taking a shower and her voice is good too. My bird for sure can sing!  
