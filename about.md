@@ -4,6 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Hi, I am hakerdefo and welcome to my hyding place on the wild web powered by Jekyll.
-
-Here you'll find me musing and rambling about anything and everything that piqued my interest.
+Hi, I'm hakerdefo & welcome to my hyding place on the wild web powered by Jekyll.  
+Here you will find me musing about anything and everything that piqued my interest.
