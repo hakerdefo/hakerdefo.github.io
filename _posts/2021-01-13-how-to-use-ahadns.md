@@ -1,3 +1,9 @@
+---
+layout: post
+title: How to use AhaDNS?
+---
+
+
 ## What is AhaDNS?
 AhaDNS is a zero logging encrypted DNS server service supporting DNS over HTTPS (DoH) & DNS over TLS (DoT). AhaDNS servers do not log or save any personal DNS request data. AhaDNS servers automatically block Ads, Malware, Trackers, Viruses & Telemetry. AhaDNS is fully open source. AhaDNS is the brainchild of Fredrik Pettersson. Currently AhaDNS servers are located in Netherlands, India and U.S.A.
 
@@ -118,8 +124,11 @@ If you need any help regarding AhaDNS setup or have a question or a query about 
 
 
 ### Conclusion :
-Questions, suggestions, comments are always welcome. Please click on the mail icon at the bottom of the page to send them.  
+Questions, suggestions, comments are always welcome. Please click on the mail icon at the bottom of the page to send them.
 
-Cheers!!!  
+
+Cheers!!!
+
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#"><a rel="cc:attributionURL" property="dct:title" href="https://hakerdefo.github.io/how-to-use-ahadns/">How to use AhaDNS?</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/hakerdefo">hakerdefo</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>  
+
