@@ -1,13 +1,10 @@
----
-layout: post
-title: How to use AhaDNS?
----
-
 ## What is AhaDNS?
 AhaDNS is a zero logging encrypted DNS server service supporting DNS over HTTPS (DoH) & DNS over TLS (DoT). AhaDNS servers do not log or save any personal DNS request data. AhaDNS servers automatically block Ads, Malware, Trackers, Viruses & Telemetry. AhaDNS is fully open source. AhaDNS is the brainchild of Fredrik Pettersson. Currently AhaDNS servers are located in Netherlands, India and U.S.A.
 
+
 ## How to use it?
-Well, answer to this question greatly depend on your application, device and its operating system. In this article I'll cover Windows, GNU/Linux, Firefox and Google Chrome.
+There are multiple ways in which you can say Aha to a faster, spam-free & secure Internet experience via AhaDNS. Let's take a look at a few of them.
+
 
 ### Windows (10, 8, 7) :
 - Click the **Network icon** on the bottom right corner of Windows panel toolbar.
@@ -18,7 +15,7 @@ Well, answer to this question greatly depend on your application, device and its
 - Click on the **Properties** button at the bottom right.
 - Select **Use the following DNS server addresses** option.
 - Add **5.2.75.75** (Netherlands) as your **Preferred DNS server**.
-- Add either **45.79.120.233** (India) or **45.67.219.208** (U.S.A) as **Alternate DNS server**.
+- Add **45.79.120.233** (India), **45.67.219.208** (L.A. - U.S.A) or **185.213.26.187** (N.Y. - U.S.A) as **Alternate DNS server**.
 - Complete the setup by clicking on the **OK** button.
 
 #### For IPv6 setting first four steps will remain same as above.
@@ -26,7 +23,7 @@ Well, answer to this question greatly depend on your application, device and its
 - Click on the **Properties** button at the bottom right.
 - Select **Use the following DNS server addresses** option.
 - Add **2a04:52c0:101:75::75** (Netherlands) as your **Preferred DNS server**.
-- Add either **2400:8904:e001:43::43** (India) or **2a04:bdc7:100:70::70** (U.S.A) as **Alternate DNS server**.
+- Add **2400:8904:e001:43::43** (India), **2a04:bdc7:100:70::70** (L.A. - U.S.A) or **2a0d:5600:33:3::3** (N.Y. - U.S.A) as **Alternate DNS server**.
 - Complete the setup by clicking on the **OK** button.
 
 
@@ -37,14 +34,14 @@ Well, answer to this question greatly depend on your application, device and its
 - Click on **IPv4 Settings** tab.
 - From the drop-down list select **Automatic (DHCP) addresses only** as the **Method**.
 - And in the **DNS servers** field, enter these AhaDNS servers separated by a comma like this,  
-`5.2.75.75, 45.79.120.233, 45.67.219.208`
+`5.2.75.75, 45.79.120.233, 45.67.219.208, 185.213.26.187`
 - Complete the set up by hitting the **Save** button.
 
 #### For IPv6 setup first three steps will remain same as above.
 - Click on **IPv6 Settings** tab.
 - From the drop-down list select **Automatic (DHCP) addresses only** as the **Method**.
 - And in the **DNS servers** field, enter these AhaDNS servers separated by a comma like this,  
-`2a04:52c0:101:75::75, 2400:8904:e001:43::43, 2a04:bdc7:100:70::70`
+`2a04:52c0:101:75::75, 2400:8904:e001:43::43, 2a04:bdc7:100:70::70, 2a0d:5600:33:3::3`
 - Complete the set up by hitting the **Save** button.
 
 
@@ -57,9 +54,9 @@ Well, answer to this question greatly depend on your application, device and its
 - If such a line exists comment it out like this,  
 `#prepend domain-name-servers 127.0.0.1;`
 - For IPv4 add following line after it,  
-`prepend domain-name-servers 5.2.75.75, 45.79.120.233, 45.67.219.208;`  
+`prepend domain-name-servers 5.2.75.75, 45.79.120.233, 45.67.219.208, 185.213.26.187;`  
 For IPv6 add following line after it,  
-`2a04:52c0:101:75::75, 2400:8904:e001:43::43, 2a04:bdc7:100:70::70;`
+`2a04:52c0:101:75::75, 2400:8904:e001:43::43, 2a04:bdc7:100:70::70, 2a0d:5600:33:3::3;`
 - Save the file and close the editor. 
 
 
@@ -70,7 +67,8 @@ For IPv6 add following line after it,
 - In the **Use Provider** option select **Custom** and enter any of the following,  
 https://doh.nl.ahadns.net/dns-query  
 https://doh.in.ahadns.net/dns-query  
-https://doh.la.ahadns.net/dns-query
+https://doh.la.ahadns.net/dns-query  
+https://doh.ny.ahadns.net/dns-query  
 - Click **OK**.
 - Finally in the address bar enter **about:config** and click on **Accept the Risk and Continue** when prompted.
 - In the search field type **network.trr.mode** and click on **pencil icon** to edit and enter **3** and save it by clicking on **yes check mark**.
@@ -83,17 +81,45 @@ https://doh.la.ahadns.net/dns-query
 - Select **With Custom** and in the **Enter custom provider** field, enter any of the following,  
 https://doh.nl.ahadns.net/dns-query  
 https://doh.in.ahadns.net/dns-query  
-https://doh.la.ahadns.net/dns-query
+https://doh.la.ahadns.net/dns-query  
+https://doh.ny.ahadns.net/dns-query  
+
+
+### Routers :
+There are way too many routers out there and their setups greatly vary from one another. Sadly, I can't possibly cover them all. You can Search DuckDuckGo or Google for changing DNS settings of your particular router. For this article I'll explain how you can use AhaDNS servers on TP-Link AC1750 router.
+- Open your favorite browser.
+- In the address bar type **tplinkwifi.net** and hit Enter.
+- Enter your username & password on the login screen.
+- Click on the **Advanced** tab. Next click on **Network** menu button on the left side of the screen. And from the **Network** options select **DHCP Server**.
+- **Enable DHCP Server** if it is disabled.
+- In the **Primary DNS** field enter **5.2.75.75**.
+- In the **Secondary DNS** field enter either **45.79.120.233**, **45.67.219.208**, or **185.213.26.187**.
+- Click on the **Save** button to complete the setup.
 
 
 ### Android, iOS, MacOS, Microsoft Edge :
-Guides for these platforms are available at this AhaDNS page,  
-[AhaDNS setup guides](https://ahadns.com/setup-guides/ "AhaDNS setup guides")
+[AhaDNS iOS setup guide](https://github.com/AhaDNS/setup-guides/blob/master/Apple/iOS.md)  
+[AhaDNS Android setup guide](https://github.com/AhaDNS/setup-guides/blob/master/Android/Android.md)  
+[AhaDNS MacOS setup guide](https://github.com/AhaDNS/setup-guides/blob/master/Apple/MacOS.md)  
+[AhaDNS Microsoft Edge setup guide](https://github.com/AhaDNS/setup-guides/blob/master/MSEdge/Edge.md)  
+
+
+### Verifying your AhaDNS setup :
+To verify that you are using AhaDNS servers, open your browser and visit,  
+[DNS leak test](https://www.dnsleaktest.com/)  
+And when the site opens click on **Extended test** button.
+When the test completes, you should see the **address** of AhaDNS server you selected in your setup under the **Hostname**.
+
+
+### Further help on AhaDNS :
+If you need any help regarding AhaDNS setup or have a question or a query about it, you can use any of the following official support channels,  
+[AhaDNS Community on Telegram](https://t.me/ahadns_community)  
+[Official subreddit of AhaDNS](https://www.reddit.com/r/ahadns/)  
 
 
 ### Conclusion :
-You can get more information on AhaDNS from its homepage here,  
-[AhaDNS](https://ahadns.com/ "AhaDNS")  
-Any question, suggestion, comment on this article are always welcome. You can send them by clicking on the mail icon at the bottom of the page.  
+Questions, suggestions, comments are always welcome. Please click on the mail icon at the bottom of the page to send them.  
+
 Cheers!!!  
-<p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#"><a rel="cc:attributionURL" property="dct:title" href="https://hakerdefo.github.io/how-to-use-ahadns/">How to use AhaDNS?</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/hakerdefo">hakerdefo</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
+
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#"><a rel="cc:attributionURL" property="dct:title" href="https://hakerdefo.github.io/how-to-use-ahadns/">How to use AhaDNS?</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/hakerdefo">hakerdefo</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>  
