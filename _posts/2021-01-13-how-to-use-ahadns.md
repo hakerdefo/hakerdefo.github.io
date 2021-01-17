@@ -12,11 +12,11 @@ AhaDNS is a zero logging encrypted DNS server service supporting DNS over HTTPS 
 | Netherlands  | 5.2.75.75  | 2a04:52c0:101:75::75  | https://doh.nl.ahadns.net/dns-query |
 | India  | 45.79.120.233  | 2400:8904:e001:43::43  | https://doh.in.ahadns.net/dns-query |
 | United States - Los Angeles  | 45.67.219.208  | 2a04:bdc7:100:70::70  | https://doh.la.ahadns.net/dns-query |
-| United States - New York  | 185.213.26.187  | 2a0d:5600:33:3::3  | https://doh.ny.ahadns.net/dns-query |
+| United States - New York  | 185.213.26.187  | 2a0d:5600:33:3::3  | https://doh.ny.ahadns.net/dns-query |  
 
 
 ## How to use it?
-There are multiple ways in which you can say Aha to a faster, spam-free & secure Internet experience via AhaDNS. Let's take a look at a few of them.
+There are multiple ways in which you can say Aha to a faster, spam-free & secure Internet experience via AhaDNS. Let's take a look at a few of them.  
 
 
 ### Windows (10, 8, 7) :
@@ -38,7 +38,7 @@ There are multiple ways in which you can say Aha to a faster, spam-free & secure
 - Select **Use the following DNS server addresses** option.
 - Add **2a04:52c0:101:75::75** as your **Preferred DNS server**.
 - Add **2400:8904:e001:43::43** as your **Alternate DNS server**.
-- Complete the setup by clicking on the **OK** button.
+- Complete the setup by clicking on the **OK** button.  
 
 
 ### GNU/Linux with Network Manager :
@@ -60,7 +60,7 @@ There are multiple ways in which you can say Aha to a faster, spam-free & secure
 ```text
 2a04:52c0:101:75::75, 2400:8904:e001:43::43
 ```
-- Complete the set up by hitting the **Save** button.
+- Complete the set up by hitting the **Save** button.  
 
 
 ### GNU/Linux without Network Manager :
@@ -85,7 +85,7 @@ For IPv6 add following line after it,
 ```text
 prepend domain-name-servers 2a04:52c0:101:75::75, 2400:8904:e001:43::43;
 ```
-- Save the file and close the editor. 
+- Save the file and close the editor.  
 
 
 ### Firefox browser :
@@ -99,7 +99,7 @@ https://doh.nl.ahadns.net/dns-query
 ```
 - Click **OK**.
 - Finally in the address bar enter **about:config** and click on **Accept the Risk and Continue** when prompted.
-- In the search field type **network.trr.mode** and click on **pencil icon** to edit and enter **3** and save it by clicking on **yes check mark**.
+- In the search field type **network.trr.mode** and click on **pencil icon** to edit and enter **3** and save it by clicking on **yes check mark**.  
 
 
 ### Google Chrome browser :
@@ -110,7 +110,7 @@ https://doh.nl.ahadns.net/dns-query
 - Select **With Custom** and in the **Enter custom provider** field, enter the following DNS over HTTPS (DoH) address,  
 ```text
 https://doh.nl.ahadns.net/dns-query
-```
+```  
 
 
 ### Routers :
@@ -122,7 +122,7 @@ There are way too many routers out there and their setups greatly vary from one 
 - **Enable DHCP Server** if it is disabled.
 - In the **Primary DNS** field enter **5.2.75.75**.
 - In the **Secondary DNS** field enter **45.79.120.233**.
-- Click on the **Save** button to complete the setup.
+- Click on the **Save** button to complete the setup.  
 
 
 ### Android, iOS, MacOS, Microsoft Edge :
@@ -136,7 +136,7 @@ There are way too many routers out there and their setups greatly vary from one 
 To verify that you are using AhaDNS servers, open your browser and visit,  
 [DNS leak test](https://www.dnsleaktest.com/)  
 And when the site opens click on **Extended test** button.
-When the test completes, you should see the **address** of AhaDNS server you selected in your setup under the **Hostname**.
+When the test completes, you should see the **address** of AhaDNS server you selected in your setup under the **Hostname**.  
 
 
 ### Further help on AhaDNS :
@@ -146,10 +146,10 @@ If you need any help regarding AhaDNS setup or have a question or a query about 
 
 
 ### Conclusion :
-Questions, suggestions, comments are always welcome. Please click on the mail icon at the bottom of the page to send them.
+Questions, suggestions, comments are always welcome. Please click on the mail icon at the bottom of the page to send them.  
 
 
-Cheers!!!
+Cheers!!!  
 
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#"><a rel="cc:attributionURL" property="dct:title" href="https://hakerdefo.github.io/how-to-use-ahadns/">How to use AhaDNS?</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/hakerdefo">hakerdefo</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>  
