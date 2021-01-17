@@ -5,7 +5,8 @@ title: How to use AhaDNS?
 
 
 ## What is AhaDNS?
-AhaDNS is a zero logging encrypted DNS server service supporting DNS over HTTPS (DoH) & DNS over TLS (DoT). AhaDNS servers do not log or save any personal DNS request data. AhaDNS servers automatically block Ads, Malware, Trackers, Viruses & Telemetry. AhaDNS is fully open source. AhaDNS is the brainchild of Fredrik Pettersson. Here is the list of current locations and addresses of AhaDNS servers,
+AhaDNS is a zero logging encrypted DNS server service supporting DNS over HTTPS (DoH) & DNS over TLS (DoT). AhaDNS servers do not log or save any personal DNS request data. AhaDNS servers automatically block Ads, Malware, Trackers, Viruses & Telemetry. AhaDNS is fully open source. AhaDNS is the brainchild of Fredrik Pettersson. Here is the list of current locations and addresses of AhaDNS servers,  
+
 |  Location | IPv4 Address  | IPv6 Address  | DoH Address |
 | :------------: | :------------: | :------------: | :------------: |
 | Netherlands  | 5.2.75.75  | 2a04:52c0:101:75::75  | https://doh.nl.ahadns.net/dns-query |
