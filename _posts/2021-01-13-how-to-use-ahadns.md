@@ -94,7 +94,9 @@ prepend domain-name-servers 2a04:52c0:101:75::75, 2400:8904:e001:43::43;
 - Go to the bottom and check **Enable DNS over HTTPS**.
 - In this example I'll be using DNS over HTTPS (DoH) address of Netherlands server, you can use DoH address of any AhaDNS server from the table above.
 - In the **Use Provider** option select **Custom** and enter the following DNS over HTTPS (DoH) address,  
-https://doh.nl.ahadns.net/dns-query  
+```text
+https://doh.nl.ahadns.net/dns-query
+```
 - Click **OK**.
 - Finally in the address bar enter **about:config** and click on **Accept the Risk and Continue** when prompted.
 - In the search field type **network.trr.mode** and click on **pencil icon** to edit and enter **3** and save it by clicking on **yes check mark**.
@@ -106,7 +108,9 @@ https://doh.nl.ahadns.net/dns-query
 - **Toggle** on **Use secure DNS** option.
 - In this example I'll be using DNS over HTTPS (DoH) address of Netherlands server, you can use DoH address of any AhaDNS server from the table above.
 - Select **With Custom** and in the **Enter custom provider** field, enter the following DNS over HTTPS (DoH) address,  
-https://doh.nl.ahadns.net/dns-query  
+```text
+https://doh.nl.ahadns.net/dns-query
+```
 
 
 ### Routers :
