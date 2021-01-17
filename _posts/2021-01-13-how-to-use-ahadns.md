@@ -120,8 +120,8 @@ There are way too many routers out there and their setups greatly vary from one 
 - Enter your username & password on the login screen.
 - Click on the **Advanced** tab. Next click on **Network** menu button on the left side of the screen. And from the **Network** options select **DHCP Server**.
 - **Enable DHCP Server** if it is disabled.
-- In the **Primary DNS** field enter **5.2.75.75**.
-- In the **Secondary DNS** field enter **45.79.120.233**.
+- In the **Primary DNS** field enter **5.2.75.75**
+- In the **Secondary DNS** field enter **45.79.120.233**
 - Click on the **Save** button to complete the setup.  
 
 
