@@ -31,8 +31,8 @@ There are multiple ways in which you can say Aha to a faster, spam-free & secure
 - Choose **Internet Protocol Version 6 (TCP/IPv6)**.
 - Click on the **Properties** button at the bottom right.
 - Select **Use the following DNS server addresses** option.
-- Add ```2a04:52c0:101:75::75``` as your **Preferred DNS server**.
-- Add ```2400:8904:e001:43::43``` as your **Alternate DNS server**.
+- Add <inline-code>2a04:52c0:101:75::75</inline-code> as your **Preferred DNS server**.
+- Add <inline-code>2400:8904:e001:43::43</inline-code> as your **Alternate DNS server**.
 - Complete the setup by clicking on the **OK** button.
 
 ### GNU/Linux with Network Manager :
@@ -107,10 +107,10 @@ There are way too many routers out there and their setups greatly vary from one 
 - Enter your username & password on the login screen.
 - Click on the **Advanced** tab. Next click on **Network** menu button on the left side of the screen. And from the **Network** options select **DHCP Server**.
 - **Enable DHCP Server** if it is disabled.
-- For IPv4 in the **Primary DNS** field enter ```5.2.75.75```.
-- For IPv4 in the **Secondary DNS** field enter ```45.79.120.233```.
-- For IPv6 in the **Primary DNS** field enter ```2a04:52c0:101:75::75```.
-- For IPv6 in the **Secondary DNS** field enter ```2400:8904:e001:43::43```.
+- For IPv4 in the **Primary DNS** field enter <inline-code>5.2.75.75</inline-code>
+- For IPv4 in the **Secondary DNS** field enter <inline-code>45.79.120.233</inline-code>
+- For IPv6 in the **Primary DNS** field enter <inline-code>2a04:52c0:101:75::75</inline-code>
+- For IPv6 in the **Secondary DNS** field enter <inline-code>2400:8904:e001:43::43</inline-code>
 - Click on the **Save** button to complete the setup.
 
 ### Android, iOS, MacOS, Microsoft Edge :
