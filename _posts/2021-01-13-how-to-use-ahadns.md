@@ -24,8 +24,8 @@ There are multiple ways in which you can say Aha to a faster, spam-free & secure
 - Choose **Internet Protocol Version 4 (TCP/IPv4)**.
 - Click on the **Properties** button at the bottom right.
 - Select **Use the following DNS server addresses** option.
-- Add ```5.2.75.75``` as your **Preferred DNS server**.
-- Add ```45.79.120.233``` as your **Alternate DNS server**.
+- Add <inline-code>5.2.75.75</inline-code> as your **Preferred DNS server**.
+- Add <inline-code>45.79.120.233</inline-code> as your **Alternate DNS server**.
 - Complete the setup by clicking on the **OK** button.  
 #### For IPv6 setting first four steps will remain same as above.
 - Choose **Internet Protocol Version 6 (TCP/IPv6)**.
