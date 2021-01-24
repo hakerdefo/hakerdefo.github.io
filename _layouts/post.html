@@ -9,11 +9,11 @@ layout: default
     {{ content }}
   </div>
 
+    {% include share-buttons.html %}
+
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
-
-    {% include share-buttons.html %}
 
     {% include disqus.html %}
 </article>
