@@ -18,7 +18,6 @@
 /**************/
 
 html {
-  height: 100%;
   font-size: 100%;
 }
 
@@ -33,6 +32,10 @@ body {
 
 .container {
   flex: 1 0 auto;
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 0 10px;
+  width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -283,10 +286,9 @@ nav {
   background-color: $lightGray;
 }
 
-.footer {
+footer {
   padding: 20px 0;
   text-align: center;
-  flex-shrink: 0;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
