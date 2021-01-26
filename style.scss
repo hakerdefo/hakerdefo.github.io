@@ -18,20 +18,20 @@
 /**************/
 
 html {
+  height: 100%;
   font-size: 100%;
 }
 
 body {
-	background: $white;
+  display: flex;
+  flex-direction: column;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
 .container {
-  margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
-  width: 100%;
+  flex: 1 0 auto;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -282,9 +282,10 @@ nav {
   background-color: $lightGray;
 }
 
-footer {
+.footer {
   padding: 20px 0;
   text-align: center;
+  flex-shrink: 0;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
