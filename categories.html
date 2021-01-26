@@ -13,7 +13,9 @@ title: Categories
     <div id="#{{ category_name | slugify }}"></div>
     <p></p>
 
+    <u>
     <h2 class="category-head">{{ category_name }}</h2>
+    </u>
     <a name="{{ category_name | slugify }}"></a>
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
