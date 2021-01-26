@@ -5,6 +5,8 @@ layout: default
 <article class="post">
   <h1>{{ page.title }}</h1>
 
+  <p class="entry-tags">{% for tag in page.tags %}<a href="{{ site.url }}/tags.html#{{ tag | cgi_escape }}" title="Pages tagged {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor %}</p>
+
   <div class="entry">
     {{ content }}
   </div>
