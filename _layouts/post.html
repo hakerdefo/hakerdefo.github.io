@@ -9,8 +9,6 @@ layout: default
     {{ content }}
   </div>
 
-  {% include share-buttons.html %}
-
   <div class="post-categories">
     <h3>Post categories :</h3>
     <h4>
@@ -24,6 +22,11 @@ layout: default
     {% unless forloop.last %}&nbsp;{% endunless %}
     {% endfor %}
     </h4>
+  </div>
+
+  <div class="share-post">
+    <h3>Share this post :</h3>
+    {% include share-buttons.html %}
   </div>
 
   <div class="date">
