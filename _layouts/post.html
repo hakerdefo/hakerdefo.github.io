@@ -11,28 +11,22 @@ layout: default
 
   {% include share-buttons.html %}
 
-  <br></br>
-
   <div class="post-categories">
-    <h3>Posted in :</h3>
+    <h3>Post categories :</h3>
     {% if post %}
     {% assign categories = post.categories %}
     {% else %}
     {% assign categories = page.categories %}
     {% endif %}
     {% for category in categories %}
-    <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+    <h4><a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a></h4>
     {% unless forloop.last %}&nbsp;{% endunless %}
     {% endfor %}
   </div>
 
-  <br></br>
-
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
-
-  <br></br>
 
   {% include disqus.html %}
 </article>
