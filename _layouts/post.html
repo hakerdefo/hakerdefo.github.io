@@ -9,23 +9,21 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="post-categories">
-    {% if post %}
-    {% assign categories = post.categories %}
-    {% else %}
-    {% assign categories = page.categories %}
-    {% endif %}
-    {% for category in categories %}
-    <a href="{{site.baseurl}}/categories/#{{category|slugify}}">{{category}}</a>
-    {% unless forloop.last %}&nbsp;{% endunless %}
-    {% endfor %}
-  </div>
-
-  {% include share-buttons.html %}
-
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
+
+{% assign category = site.my_categories | where: "slug", post.category %}
+{% assign category = category[0] %}
+{% if category %}
+    {% capture category_content %}<a class="label" href="{{ category.url }}">{{ category.name }}</a>{% endcapture %}
+{% endif %}
+<br></br>
+<br></br>
+<p id="post-meta">{{ category_content }}</p>
+<br></br>
+<br></br>
+  {% include share-buttons.html %}
 
   {% include disqus.html %}
 </article>
