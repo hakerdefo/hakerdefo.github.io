@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to use AhaDNS?
-categories: [how-to, dns]
+category: how-to
 ---
 
 ## What is AhaDNS?
