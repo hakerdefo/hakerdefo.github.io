@@ -9,10 +9,10 @@ AhaDNS is a zero logging encrypted DNS server service supporting DNS over HTTPS 
 
 |  Location | IPv4 Address  | IPv6 Address  | DoH Address |
 | :------------: | :------------: | :------------: | :------------: |
-| Netherlands  | 5.2.75.75  | 2a04:52c0:101:75::75  | **[https://doh.nl.ahadns.net/dns-query](https://doh.nl.ahadns.net/dns-query){:target="_blank"}** |
-| India  | 45.79.120.233  | 2400:8904:e001:43::43  | **[https://doh.in.ahadns.net/dns-query](https://doh.in.ahadns.net/dns-query){:target="_blank"}** |
-| United States - Los Angeles  | 45.67.219.208  | 2a04:bdc7:100:70::70  | **[https://doh.la.ahadns.net/dns-query](https://doh.la.ahadns.net/dns-query){:target="_blank"}** |
-| United States - New York  | 185.213.26.187  | 2a0d:5600:33:3::3  | **[https://doh.ny.ahadns.net/dns-query](https://doh.ny.ahadns.net/dns-query){:target="_blank"}** |  
+| Netherlands  | 5.2.75.75  | 2a04:52c0:101:75::75  | <span style="text-decoration: underline">[https://doh.nl.ahadns.net/dns-query](https://doh.nl.ahadns.net/dns-query){:target="_blank"}</span> |
+| India  | 45.79.120.233  | 2400:8904:e001:43::43  | [https://doh.in.ahadns.net/dns-query](https://doh.in.ahadns.net/dns-query){:target="_blank"} |
+| United States - Los Angeles  | 45.67.219.208  | 2a04:bdc7:100:70::70  | [https://doh.la.ahadns.net/dns-query](https://doh.la.ahadns.net/dns-query){:target="_blank"} |
+| United States - New York  | 185.213.26.187  | 2a0d:5600:33:3::3  | [https://doh.ny.ahadns.net/dns-query](https://doh.ny.ahadns.net/dns-query){:target="_blank"} |  
 
 
 ## How to use it?
