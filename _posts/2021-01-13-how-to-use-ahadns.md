@@ -101,7 +101,7 @@ prepend domain-name-servers 2a04:52c0:101:75::75, 2400:8904:e001:43::43;
 ### Routers :
 There are way too many routers out there and their setups greatly vary from one another. Sadly, I can't possibly cover them all. You can Search DuckDuckGo or Google for changing DNS settings of your particular router. For this article I'll explain how you can use AhaDNS servers on TP-Link AC1750 router.
 - Open your favorite browser.
-- In the address bar type **[tplinkwifi.net](tplinkwifi.net){:target="_blank"}** and hit Enter.
+- In the address bar type <inline-code>tplinkwifi.net</inline-code> and hit Enter.
 - Enter your username & password on the login screen.
 - Click on the **Advanced** tab. Next click on **Network** menu button on the left side of the screen. And from the **Network** options select **DHCP Server**.
 - **Enable DHCP Server** if it is disabled.
