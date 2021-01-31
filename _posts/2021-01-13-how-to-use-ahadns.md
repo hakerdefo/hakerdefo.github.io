@@ -9,7 +9,7 @@ AhaDNS is a zero logging encrypted DNS server service supporting DNS over HTTPS 
 
 |  Location | IPv4 Address  | IPv6 Address  | DoH Address |
 | :------------: | :------------: | :------------: | :------------: |
-| Netherlands  | 5.2.75.75  | 2a04:52c0:101:75::75  | <span style="text-decoration:none" onmouseover="style='text-decoration:underline'" onmouseout="style='text-decoration:none'">[https://doh.nl.ahadns.net/dns-query](https://doh.nl.ahadns.net/dns-query){:target="_blank"}</span> |
+| Netherlands  | 5.2.75.75  | 2a04:52c0:101:75::75  | [https://doh.nl.ahadns.net/dns-query](https://doh.nl.ahadns.net/dns-query){:target="_blank"} |
 | India  | 45.79.120.233  | 2400:8904:e001:43::43  | [https://doh.in.ahadns.net/dns-query](https://doh.in.ahadns.net/dns-query){:target="_blank"} |
 | United States - Los Angeles  | 45.67.219.208  | 2a04:bdc7:100:70::70  | [https://doh.la.ahadns.net/dns-query](https://doh.la.ahadns.net/dns-query){:target="_blank"} |
 | United States - New York  | 185.213.26.187  | 2a0d:5600:33:3::3  | [https://doh.ny.ahadns.net/dns-query](https://doh.ny.ahadns.net/dns-query){:target="_blank"} |  
@@ -86,7 +86,7 @@ prepend domain-name-servers 2a04:52c0:101:75::75, 2400:8904:e001:43::43;
 - Go down to the **Network Settings** and click on **Settings**.
 - Go to the bottom and check **Enable DNS over HTTPS**.
 - In the **Use Provider** option select **Custom** and enter the following DNS over HTTPS (DoH) address,  
-**[https://doh.nl.ahadns.net/dns-query](https://doh.nl.ahadns.net/dns-query){:target="_blank"}**
+[https://doh.nl.ahadns.net/dns-query](https://doh.nl.ahadns.net/dns-query){:target="_blank"}
 - Click **OK**.
 - Finally in the address bar enter **about:config** and click on **Accept the Risk and Continue** when prompted.
 - In the search field type **network.trr.mode** and click on **pencil icon** to edit and enter **3** and save it by clicking on **yes check mark**.  
@@ -96,7 +96,7 @@ prepend domain-name-servers 2a04:52c0:101:75::75, 2400:8904:e001:43::43;
 - Navigate to the **Privacy and security** section and click on **More** to expand if necessary.
 - **Toggle** on **Use secure DNS** option.
 - Select **With Custom** and in the **Enter custom provider** field, enter the following DNS over HTTPS (DoH) address,  
-**[https://doh.nl.ahadns.net/dns-query](https://doh.nl.ahadns.net/dns-query){:target="_blank"}**.  
+[https://doh.nl.ahadns.net/dns-query](https://doh.nl.ahadns.net/dns-query){:target="_blank"}.  
 
 ### Routers :
 There are way too many routers out there and their setups greatly vary from one another. Sadly, I can't possibly cover them all. You can Search DuckDuckGo or Google for changing DNS settings of your particular router. For this article I'll explain how you can use AhaDNS servers on TP-Link AC1750 router.
@@ -112,23 +112,23 @@ There are way too many routers out there and their setups greatly vary from one 
 - Click on the **Save** button to complete the setup.
 
 ### Android, iOS, MacOS, Microsoft Edge :
-**[AhaDNS iOS setup guide](https://github.com/AhaDNS/setup-guides/blob/master/Apple/iOS.md){:target="_blank"}**  
-**[AhaDNS Android setup guide](https://github.com/AhaDNS/setup-guides/blob/master/Android/Android.md){:target="_blank"}**  
-**[AhaDNS MacOS setup guide](https://github.com/AhaDNS/setup-guides/blob/master/Apple/MacOS.md){:target="_blank"}**  
-**[AhaDNS Microsoft Edge setup guide](https://github.com/AhaDNS/setup-guides/blob/master/MSEdge/Edge.md){:target="_blank"}**  
+[AhaDNS iOS setup guide](https://github.com/AhaDNS/setup-guides/blob/master/Apple/iOS.md){:target="_blank"}  
+[AhaDNS Android setup guide](https://github.com/AhaDNS/setup-guides/blob/master/Android/Android.md){:target="_blank"}  
+[AhaDNS MacOS setup guide](https://github.com/AhaDNS/setup-guides/blob/master/Apple/MacOS.md){:target="_blank"}  
+[AhaDNS Microsoft Edge setup guide](https://github.com/AhaDNS/setup-guides/blob/master/MSEdge/Edge.md){:target="_blank"}  
 
 
 ## Verifying your AhaDNS setup :
 To verify that you are using AhaDNS servers, open your browser and visit,  
-**[DNS leak test](https://www.dnsleaktest.com/){:target="_blank"}**  
+[DNS leak test](https://www.dnsleaktest.com/){:target="_blank"}  
 And when the site opens click on **Extended test** button.
 When the test completes, you should see the **address** of AhaDNS server you selected in your setup under the **Hostname**.  
 
 
 ## Further help on AhaDNS :
 If you need any help regarding AhaDNS setup or have a question or a query about it, you can use any of the following official support channels,  
-**[AhaDNS Community on Telegram](https://t.me/ahadns_community){:target="_blank"}**  
-**[Official subreddit of AhaDNS](https://www.reddit.com/r/ahadns/){:target="_blank"}**  
+[AhaDNS Community on Telegram](https://t.me/ahadns_community){:target="_blank"}  
+[Official subreddit of AhaDNS](https://www.reddit.com/r/ahadns/){:target="_blank"}  
 
 
 ## Conclusion :
