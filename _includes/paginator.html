@@ -42,13 +42,13 @@
         {% elsif page == 1 %}
         <a href="{{ site.baseurl }}/">{{ page }}</a>
         {% else %}
-        <a href="{{ site.baseurl }}/page-{{ page }}">{{ page }}</a>
+        <a href="{{ site.baseurl }}/page{{ page }}">{{ page }}</a>
         {% endif %}
 	{% endfor %}
 
 	{% if end < paginator.total_pages %}
 		    <span class="pagination-more">&middot;&middot;&middot;</span>
-		    <a class="pagination-last" href="{{ site.baseurl }}/page-{{ paginator.total_pages }}">{{ paginator.total_pages }}</a>
+		    <a class="pagination-last" href="{{ site.baseurl }}/page{{ paginator.total_pages }}">{{ paginator.total_pages }}</a>
 		    {% endif %}
 
 		    {% if paginator.next_page %}
