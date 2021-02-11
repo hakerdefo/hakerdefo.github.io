@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Overlooked Classics (Spotify Playlist)
-excerpt: "You can tell a lot about a person by what’s on their playlist."
+excerpt: You can tell a lot about a person by what’s on their playlist.
 spotifyplaylist: 2iaDUy0RVHVy2XxvQFnEBc
 ---
   
