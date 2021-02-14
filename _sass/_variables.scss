@@ -1,18 +1,26 @@
+@charset "utf-8";
 
 //
 // VARIABLES
 //
 
 // Colors
-$blue: #4183C4;
-
-// Grays
+$white: #fff;
 $black: #000;
-$darkerGray: #222;
-$darkGray: #333;
 $gray: #666;
 $lightGray: #eee;
-$white: #fff;
+$paleGray: #ddd
+$darkGray: #333;
+$darkerGray: #222;
+$blue: ##0645AD;
+$purple: #663366;
+
+// Pagination colors
+$pagination-color: $darkGray;
+$pagination-hover-color: $blue;
+$pagination-active-bg: $blue;
+$pagination-active-color: $white;
+$pagination-separator-color: $paleGray;
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
@@ -25,3 +33,6 @@ $georgia: Georgia, serif;
     @content;
   }
 }
+
+// Transitions
+$time: 250ms;
