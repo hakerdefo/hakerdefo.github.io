@@ -79,7 +79,7 @@ gems:
   - jeyll-paginate # Break the main listing of posts up into smaller lists
 
 paginate: 5
-paginate_path: "/page:num/"
+paginate_path: "/page/:num/"
 
 # Exclude these files from your production _site
 exclude:
