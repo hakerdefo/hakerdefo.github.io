@@ -7,12 +7,12 @@ categories: [how-to, DNS]
 ## What is AhaDNS?
 AhaDNS is a zero logging encrypted DNS server service supporting DNS over HTTPS (DoH) & DNS over TLS (DoT). AhaDNS servers do not log or save any personal DNS request data. AhaDNS servers automatically block Ads, Malware, Trackers, Viruses & Telemetry. AhaDNS is fully open source. AhaDNS is the brainchild of Fredrik Pettersson. Here is the list of current locations and addresses of AhaDNS servers,  
 
-|  Location | IPv4 Address  | IPv6 Address  | DoH Address |
-| :------------: | :------------: | :------------: | :------------: |
-| Netherlands  | 5.2.75.75  | 2a04:52c0:101:75::75  | [https://doh.nl.ahadns.net/dns-query](https://doh.nl.ahadns.net/dns-query){:target="_blank"} |
-| India  | 45.79.120.233  | 2400:8904:e001:43::43  | [https://doh.in.ahadns.net/dns-query](https://doh.in.ahadns.net/dns-query){:target="_blank"} |
-| United States - Los Angeles  | 45.67.219.208  | 2a04:bdc7:100:70::70  | [https://doh.la.ahadns.net/dns-query](https://doh.la.ahadns.net/dns-query){:target="_blank"} |
-| United States - New York  | 185.213.26.187  | 2a0d:5600:33:3::3  | [https://doh.ny.ahadns.net/dns-query](https://doh.ny.ahadns.net/dns-query){:target="_blank"} |  
+|           Location          | IPv4 Address   | IPv6 Address          | DoH Address                                                                                  | DoT Address                            |
+|:---------------------------:|----------------|-----------------------|----------------------------------------------------------------------------------------------|----------------------------------------|
+| Netherlands                 | 5.2.75.75      | 2a04:52c0:101:75::75  | [https://doh.nl.ahadns.net/dns-query](https://doh.nl.ahadns.net/dns-query){:target="_blank"} | [dot.nl.ahadns.net](dot.nl.ahadns.net) |
+| India                       | 45.79.120.233  | 2400:8904:e001:43::43 | [https://doh.in.ahadns.net/dns-query](https://doh.in.ahadns.net/dns-query){:target="_blank"} | [dot.in.ahadns.net](dot.in.ahadns.net) |
+| United States - Los Angeles | 45.67.219.208  | 2a04:bdc7:100:70::70  | [https://doh.la.ahadns.net/dns-query](https://doh.la.ahadns.net/dns-query){:target="_blank"} | [dot.la.ahadns.net](dot.la.ahadns.net) |
+| United States - New York    | 185.213.26.187 | 2a0d:5600:33:3::3     | [https://doh.ny.ahadns.net/dns-query](https://doh.ny.ahadns.net/dns-query){:target="_blank"} | [dot.ny.ahadns.net](dot.ny.ahadns.net) |
 
 
 ## How to use it?
