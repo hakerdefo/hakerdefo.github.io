@@ -42,7 +42,7 @@
         {% elsif page == 1 %}
         <a class="Pagination-link" href="{{ site.baseurl }}/" aria-label="Go to page {{ page }}">{{ page }}</a>
         {% else %}
-        <a class="Pagination-link" href="{{ site.baseurl }}/{{ page }}" aria-label="Go to page {{ page }}">{{ page }}</a>
+        <a class="Pagination-link" href="{{ site.baseurl }}/page/{{ page }}" aria-label="Go to page {{ page }}">{{ page }}</a>
         {% endif %}
 	{% endfor %}
 
