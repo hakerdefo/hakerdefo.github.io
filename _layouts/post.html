@@ -12,23 +12,21 @@ layout: default
   <div class="post-categories">
     <h3>Post categories :</h3>
     <h4>
-    {% if post %}
-    {% assign categories = post.categories %}
-    {% else %}
-    {% assign categories = page.categories %}
-    {% endif %}
-    {% for category in categories %}
-    <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-    {% unless forloop.last %}&nbsp;{% endunless %}
-    {% endfor %}
+      {% if post %}
+      {% assign categories = post.categories %}
+      {% else %}
+      {% assign categories = page.categories %}
+      {% endif %}
+      {% for category in categories %}
+      <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+      {% unless forloop.last %}&nbsp;{% endunless %}
+      {% endfor %}
     </h4>
   </div>
 
   <div class="share-post">
-  <div class="center">  
     <h3>Share this post :</h3>
     {% include share-buttons.html %}
-  </div>
   </div>
 
   <div class="date">
