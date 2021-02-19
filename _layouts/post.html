@@ -18,7 +18,7 @@ layout: default
       {% assign categories = page.categories %}
       {% endif %}
       {% for category in categories %}
-      <a class="btn btn-primary" href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+      <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
       {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %}
     </h4>
