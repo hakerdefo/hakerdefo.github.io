@@ -10,7 +10,7 @@ layout: default
   </div>
 
   <div class="post-categories">
-    <h3>Post categories :</h3>
+    <h2>Post categories :</h2>
     <h4>
       {% if post %}
       {% assign categories = post.categories %}
@@ -25,12 +25,18 @@ layout: default
   </div>
 
   <div class="share-post">
-    <h3>Share this post :</h3>
+    <h2>Share this post :</h2>
     {% include share-buttons.html %}
   </div>
 
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
+
+  <div class="no-comments">
+    <h2>Comments :</h2>
+    <p>I don't have comments on this blog as they not only are difficult to manage, but are also prone to privacy and security risks.</p>
+    <p>Instead of leaving a comment, you could <a href="mailto:pclink1@y7mail.com">Email me</a> instead.</p>
   </div>
 
   {% include disqus.html %}
