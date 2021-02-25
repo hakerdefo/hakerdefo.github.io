@@ -9,6 +9,10 @@ layout: default
     {{ content }}
   </div>
 
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
+
   <div class="post-categories">
     <h2>Post categories :</h2>
     <h4>
@@ -27,10 +31,6 @@ layout: default
   <div class="share-post">
     <h2>Share this post :</h2>
     {% include share-buttons.html %}
-  </div>
-
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
   <div class="no-comments">
