@@ -51,7 +51,8 @@ checking for ffi.h in /usr/local/include,/usr/include/ffi... no
 checking for shlwapi.h... no
 ```
 First two lines have the same header file <inline-code>ffi.h</inline-code> while the third line mention the header file <inline-code>shlwapi.h</inline-code>.
-So the build is failing because of these two missing header files. We need to install packages that provide these header files. How do we find these packages? Well, the solution mentioned here is for Debian but you can easily be adopted for other distributions.  
+So the build is failing because of these two missing header files. We need to install packages that provide these header files.  
+How do we find these packages? Well, the solution mentioned here is for Debian but can easily be adopted for other distributions.  
 Open the Debian package content search page,  
 [Debian package content search](https://www.debian.org/distrib/packages#search_contents)  
 In the **Keyword** field enter <inline-code>ffi.h</inline-code>. Under the **Display** section select **packages that contain files named like this**. Finally select Debian **Distribution**, **Architecture** and hit the **Search** button.  
