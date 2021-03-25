@@ -2,6 +2,7 @@
 layout: post
 title: How to fix jekyll build warnings 
 categories: [how-to, Jekyll]
+excerpt: You are using Jekyll to build your website, and you are getting a few warnings like these,
 ---
 
 ## Problem :
