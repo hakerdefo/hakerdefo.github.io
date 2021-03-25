@@ -33,13 +33,13 @@ warning: previous definition was here...
 Your site builds and deploys correctly despite these errors but you want to get rid of these errors, don't you? yes, you do.
 
 ## Solution :
-First remove the file <code>Gemfile.lock</code> from the root of your site.  
+First remove the file <inline-code>Gemfile.lock</inline-code> from the root of your site.  
 Next run this command in terminal from the root of your site,
 ```text
 bundle update
 ```
 This should fix those bugging errors.
-Whenever in the future you want to build your site and you have a <code>Gemfile</code> in your site's root directory you always must build your site with this command,
+Whenever in the future you want to build your site and you have a <inline-code>Gemfile</inline-code> in your site's root directory you always must build your site with this command,
 ```text
 bundle exec jekyll serve
 ```
