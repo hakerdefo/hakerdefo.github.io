@@ -14,6 +14,6 @@ In the end Kev settled on using "look it up". I found that a bit intriguing sinc
 This got me pondering too. After a bit of reading on the help pages of DuckDuckGo I found the holy grail. And what's the magic term?
 Well, It's simple, memorable and obvious,  
 [Duck it!](https://help.duckduckgo.com/company/name/)  
-I shouldn't have wasted my time reading through help pages as a simple mouse hover over the Duck's logo reveals the should-have-been-obvious answer. Holy duck!
+I shouldn't have wasted my time reading through help pages though as a simple mouse hover over the Duck's logo reveals the should-have-been-obvious answer. Holy duck!
 
 Cheers!!!
