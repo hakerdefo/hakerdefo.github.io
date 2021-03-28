@@ -55,7 +55,7 @@ So the build is failing because of these two missing header files. We need to in
 How do we find these packages? Well, the solution mentioned here is for Debian but can easily be adopted for other distributions.  
 Open the Debian package content search page,  
 
-[Debian package content search](https://www.debian.org/distrib/packages#search_contents)  
+[Debian package content search](https://www.debian.org/distrib/packages#search_contents){:target="_blank"}  
 
 In the **Keyword** field enter <inline-code>ffi.h</inline-code>. Under the **Display** section select **packages that contain files named like this**. Finally select Debian **Distribution**, **Architecture** and hit the **Search** button.  
 From the search result page we can see that <inline-code>libffi-dev</inline-code> is the package that provides <inline-code>ffi.h</inline-code> header file.
