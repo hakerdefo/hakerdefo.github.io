@@ -5,7 +5,7 @@ videoid: 1EORbL8N-R8
 categories: [youtube, guitar]
 ---
 
-A friend of mine recently watched "My Sweet Lord" from "Concert for George". The concert was held at Royal Albert Hall in London on 29 November 2002 as a memorial to George Harrison on the first anniversary of his death. My friend loved this live rendition of the classic by George Harrison. But he had a question,  
+A friend of mine recently watched "My Sweet Lord" from "Concert for George". The concert was held at Royal Albert Hall in London on 29 November 2002 as a memorial to George Harrison on the first anniversary of his death. My friend loved this live rendition of the classic by George Harrison. But he did have a question,  
 Who played the slide guitar on this live performance?
 
 {% include youtube-embed.html id=page.videoid %}
@@ -20,8 +20,8 @@ Lots of guitars and guitarists but still no luck.
 Around two minutes and forty five seconds into this live song one can see a guy wearing a cap playing a guitar.  
 Without a doubt he is playing a slide guitar.  
 But who is he?  
-He is Marc Mann. A multifaceted musician with a master's degree in music from UCLA. Beside being a great guitarist he is a good keyboardist too. Marc is also a programmer, arranger and conductor. He has frequently collaborated with Jeff Lynne, Electric Light Orchestra, Oingo Boingo and Danny Elfman. Marc has over 50 albums to his credits working with top artists.  
-Coming back to Concert for George Marc Mann played slide guitar on "Isn't It a Pity", "For You Blue", "All Things Must Pass". He also played lead guitar on "Something" and "While My Guitar Gently Weeps".  
+He is Marc Mann. A multifaceted musician with a master's degree in music from UCLA. Beside being a great guitarist he is also a good keyboardist. Marc is also a programmer, arranger and conductor. He has frequently collaborated with Jeff Lynne, Electric Light Orchestra, Oingo Boingo and Danny Elfman. Marc has over 50 albums to his credits working with top artists.  
+Coming back to Concert for George, Marc Mann also played slide guitar on "Isn't It a Pity", "For You Blue", "All Things Must Pass". He played lead guitar on "Something" and "While My Guitar Gently Weeps".  
 So finally I have the answer for my friend.  
 Putting this up here with the hope that some music loving soul will find this useful.  
 
