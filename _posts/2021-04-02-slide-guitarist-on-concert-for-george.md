@@ -11,17 +11,18 @@ Who played the slide guitar on this live performance?
 {% include youtube-embed.html id=page.videoid %}
 
 George Harrison played the slide guitar on the original version but obviously he can't be the guy playing the slide guitar here.  
-The usual suspect Eric Clapton can be easily seen playing a 12-string acoustic guitar so he too can't be the slide guitarist on this one.  
+The usual suspect Eric Clapton can easily be seen playing a 12-string acoustic guitar so he too can't be the slide guitarist on this one.  
 George's son Dhani can be seen playing an acoustic guitar so he can be ruled out too.  
-Jeff Lynne can also be seen playing a guitar but it ain't a slide guitar so we move on in our search.  
+Jeff Lynne can also be seen playing a guitar but it ain't a slide guitar so we move on.  
 Albert Lee is also there but he too is playing an acoustic guitar.  
 Dave Bronze is playing an electric bass so no luck there too.  
-Lots of guitars and guitarists but no luck still.  
+Lots of guitars and guitarists but still no luck.  
 Around two minutes and forty five seconds into this live song one can see a guy wearing a cap playing a guitar.  
 Without a doubt he is playing a slide guitar.  
 But who is he?  
 He is Marc Mann. A multifaceted musician with a master's degree in music from UCLA. Beside being a great guitarist he is a good keyboardist too. Marc is also a programmer, arranger and conductor. He has frequently collaborated with Jeff Lynne, Electric Light Orchestra, Oingo Boingo and Danny Elfman. Marc has over 50 albums to his credits working with top artists.  
 Coming back to Concert for George Marc Mann played slide guitar on "Isn't It a Pity", "For You Blue", "All Things Must Pass". He also played lead guitar on "Something" and "While My Guitar Gently Weeps".  
-So my friend finally got his answer and I decided to put this on my blog hoping that some music loving soul like my friend will find this useful.  
+So finally I have the answer for my friend.  
+Putting this up here with the hope that some music loving soul will find this useful.  
 
 Cheers!!!
