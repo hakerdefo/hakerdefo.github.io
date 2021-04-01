@@ -1,12 +1,16 @@
 .embed-youtube {
   position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
   overflow: hidden;
-  max-width: 100%;
+  width: 100%;
 }
 
-.embed-youtube iframe, .embed-youtube object, .embed-youtube embed {
+.embed-youtube::after {
+  display: block;
+  content: "";
+  padding-top: 56.25%;
+}
+
+.embed-youtube iframe {
   position: absolute;
   top: 0;
   left: 0;
