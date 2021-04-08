@@ -23,6 +23,17 @@ He is Marc Mann. A multifaceted musician with a master's degree in music from UC
 Coming back to Concert for George, Marc Mann also played slide guitar on,  
 "Isn't It a Pity"  
 
+<div class="embed-youtube">
+  <iframe
+    src="https://www.youtube.com/embed/1EORbL8N-R8?rel=0&modestbranding=1&showinfo=1&playlist=GdcSGxXJ8vM,TPO1zwuAe0g,o6iaSWSB7rE,Xl-BNTeJXjw,CrTMc2i6Lzc"
+    frameborder="0"
+    width="720"
+    height="405"
+    allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
 {% include youtube-embed.html id=GdcSGxXJ8vM %}  
 
 "For You Blue (audio only)"  
