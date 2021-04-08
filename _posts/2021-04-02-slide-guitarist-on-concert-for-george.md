@@ -1,14 +1,13 @@
 ---
 layout: post
 title: Who played the slide guitar on "My Sweet Lord" from "Concert for George"?
-videoid: 1EORbL8N-R8
 categories: [youtube, guitar]
 ---
 
 A friend of mine recently watched "My Sweet Lord" from "Concert for George". The concert was held at Royal Albert Hall in London on 29 November 2002 as a memorial to George Harrison on the first anniversary of his death. My friend loved this live rendition of the classic by George Harrison. But he did have a question,  
-Who played the slide guitar on this live performance?
+Who played the slide guitar on this live performance?  
 
-{% include youtube-embed.html id=page.videoid %}
+{% include youtube-embed.html id=1EORbL8N-R8 %}
 
 George Harrison played the slide guitar on the original version but obviously he can't be the guy playing the slide guitar here.  
 The usual suspect Eric Clapton can easily be seen playing a 12-string acoustic guitar so he too can't be the slide guitarist on this one.  
@@ -21,8 +20,30 @@ Around two minutes and forty five seconds into this live song one can see a guy 
 Without a doubt he is playing a slide guitar.  
 But who is he?  
 He is Marc Mann. A multifaceted musician with a master's degree in music from UCLA. Beside being a great guitarist he is also a good keyboardist. Marc is also a programmer, arranger and conductor. He has frequently collaborated with Jeff Lynne, Electric Light Orchestra, Oingo Boingo and Danny Elfman. Marc has over 50 albums to his credits working with top artists.  
-Coming back to Concert for George, Marc Mann also played slide guitar on "Isn't It a Pity", "For You Blue", "All Things Must Pass". He played lead guitar on "Something" and "While My Guitar Gently Weeps".  
+Coming back to Concert for George, Marc Mann also played slide guitar on,  
+"Isn't It a Pity"  
+
+{% include youtube-embed.html id=GdcSGxXJ8vM %}
+
+"For You Blue (audio only)"  
+
+{% include youtube-embed.html id=TPO1zwuAe0g %}
+
+"All Things Must Pass"  
+
+{% include youtube-embed.html id=o6iaSWSB7rE %}
+
+He played lead guitar on,  
+"Something"  
+
+{% include youtube-embed.html id=Xl-BNTeJXjw %}
+and "While My Guitar Gently Weeps"  
+
+{% include youtube-embed.html id=CrTMc2i6Lzc %}
+
+
 So finally I have the answer for my friend.  
+
 Putting this up here with the hope that some music loving soul will find this useful.  
 
 Cheers!!!
