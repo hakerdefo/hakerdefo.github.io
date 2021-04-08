@@ -23,7 +23,7 @@ Coming back to Concert for George, Marc Mann also played slide guitar on,
 
 <div class="embed-youtube">
   <iframe
-    src="https://www.youtube.com/embed/1EORbL8N-R8?playlist=GdcSGxXJ8vM,TPO1zwuAe0g,o6iaSWSB7rE,Xl-BNTeJXjw,CrTMc2i6Lzc&rel=0&modestbranding=1&showinfo=1"
+    src="https://www.youtube.com/embed/1EORbL8N-R8?playlist=1EORbL8N-R8,GdcSGxXJ8vM,TPO1zwuAe0g,o6iaSWSB7rE,Xl-BNTeJXjw,CrTMc2i6Lzc&rel=0&modestbranding=1&showinfo=1"
     frameborder="0"
     width="720"
     height="405"
