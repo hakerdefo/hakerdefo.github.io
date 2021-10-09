@@ -29,4 +29,4 @@ Wanna know something more about me? Well, I'm a just another guy on the vast oce
 - And last but not the least I prefer Fossil over Git to manage my code.  
 
 <p></p>
-Still got a question or simply curios? Please don't hesitate in mailing me. I love to hear from random people. A simple hello email from you might be good enough to put a smile on my face and make my day; you never know!  
+Still got a question or simply curios? Please don't hesitate in <a href="mailto:pclink1@y7mail.com">Emailing me</a>. I love to hear from random people. A simple hello email from you might be good enough to put a smile on my face and make my day; you never know!  
