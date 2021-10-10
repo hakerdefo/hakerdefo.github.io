@@ -1,7 +1,7 @@
 ---
 layout: page
 title: I, me and myself
-permalink: /about/
+permalink: /about
 ---
 
 Hi, I'm hakerdefo & welcome to my hyding place on the wild web powered by Jekyll.  
