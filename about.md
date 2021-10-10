@@ -12,7 +12,7 @@ This blog is themed using a wonderful Jekyll template called [Forever Jekyll](ht
 Wanna know something more about me? Well, I'm a just another guy on the vast ocean of the Internet. I'm not even a speck of dust in the grand scheme of the universe. I'm not that important and interesting in short but since you are curious here are a few things about me, just for you.  
 - I love listening to all sorts of music.  
 - I used to read a truck load of books but haven't been able to read as many books as I'd have liked to in the recent past.  
-- I like to watch films but don't usually get to watch that many for variety of reasons.  
+- I like to watch films but don't usually get to watch that many for a variety of reasons.  
 - I write songs, poems and short stories when I'm either super high or super low.  
 - I like to travel to isolated places that are closer to nature and farther from the crowd.  
 - I like to take photographs.  
