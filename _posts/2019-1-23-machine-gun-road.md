@@ -24,7 +24,7 @@ She would not play music this loudly if it were midnight with all this shit we h
 Can't be midnight for sure!  
 Now waking up and looking at the clock won't do me any good as it's been dead for months.  
 Can the clock run backwards if the batteries are reversed?  
-Can it go back in time to the day I sat my foot in this den for the first time?  
+Can it go back in time to the day I set my foot in this den for the first time?  
 Will that do me any good?  
 Perhaps no.  
 She is not bad after all.  
@@ -141,8 +141,13 @@ She has a habit of singing and humming while taking a shower and her voice is go
 *"Dazed and confused. Zeppelin."*  
 
 Fuck!  
+You not only share drugs, booze, body, food, joy, sorrow in love; you also share gremlins.  
 
-"You know a thought came to my mind at Mali's tea stall."  
-*"Shoot!"*  
-"Machine gun Road practically begins where Mali's place is and it ends at a crematorium."  
+"Do you know where Machine gun Road begins?"  
+*"Why?"*  
+"I'll tell you why but, you tell me first."  
+*"It begins near Mali's stall, doesn't it?"*  
+"Right! But, do you know where does it end?"  
+*"Nope! I have absolutely no idea!"*  
+"Well, it literally ends up at a crematorium!"  
 *"B.I.T.C.H."*  
