@@ -21,7 +21,7 @@ Wanna know something more about me? Well, I'm a just another guy on the vast oce
 - I prefer Sakura as terminal emulator.  
 - GNU nano and Textadept are my preferred text-editors.  
 - Firefox is my browser of choice.  
-- I use Mutt and SeaMonkey to manage my Emails.  
+- I use Mutt and SeaMonkey to manage my emails.  
 - cmus and MOC are my preferred audio players.  
 - mpv is what I use to watch videos.  
 - I use viewnior and mtPaint to work with photographs and images.  
