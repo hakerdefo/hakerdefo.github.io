@@ -16,7 +16,7 @@ Wanna know something more about me? Well, I'm a just another guy on the vast oce
 - I write songs, poems and short stories when I'm either super high or super low.  
 - I like to travel to isolated places that are closer to nature and farther from the crowd.  
 - I like to take photographs.  
-- I exclusively use GNU/Linux based operating systems. I'm currently running ALT Sisyphus, Debian Sid, Debian stable, openSUSE Leap, PCLinuxOS, Ubuntu LTS, Void, and Zenwalk. I also use NetBSD.  
+- I exclusively use GNU/Linux based operating systems. I'm currently running ALT Sisyphus, Debian Sid, Debian stable, openSUSE Leap, PCLinuxOS, Ubuntu LTS, Void and Zenwalk. I also use NetBSD.  
 - Openbox is my WM/DE of choice.  
 - I prefer Sakura as terminal emulator.  
 - GNU nano and Textadept are my preferred text-editors.  
