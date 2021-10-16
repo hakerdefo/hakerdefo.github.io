@@ -4,12 +4,12 @@ title: I, me and myself
 permalink: /about
 ---
 
-Hi, I'm hakerdefo & welcome to my hyding place on the wild web powered by Jekyll.  
+Hi, I'm hakerdefo. Welcome to my hyding place on the wild web, powered by Jekyll.  
 Here you will find me musing about anything and everything that piqued my interest.  
 <p></p>
 This blog is themed using a wonderful Jekyll template called [Forever Jekyll](https://github.com/forever-jekyll/forever-jekyll).  
 <p></p>
-Wanna know something more about me? Well, I'm a just another guy on the vast ocean of the Internet. I'm not even a speck of dust in the grand scheme of the universe. I'm not that important and interesting in short but since you are curious here are a few things about me, just for you.  
+Wanna know something more about me? Well, I'm a just another guy on the vast ocean of the Internet. I'm not even a speck of dust in the grand scheme of the universe. I'm not that important and interesting in short, but since you are curious here are a few things about me, just for you.  
 - I love listening to all sorts of music.  
 - I used to read a truck load of books but haven't been able to read as many books as I'd have liked to in the recent past.  
 - I like to watch films but don't usually get to watch that many for a variety of reasons.  
@@ -26,7 +26,7 @@ Wanna know something more about me? Well, I'm a just another guy on the vast oce
 - mpv is what I use to watch videos.  
 - I use viewnior and mtPaint to work with photographs and images.  
 - I love messing around with code. I'm not a programmer by any means but hack, I like to hack.  
-- And last but not the least I prefer Fossil over Git to manage my code.  
+- And last but not the least I prefer Fossil to Git for managing my code.  
 
 <p></p>
-Still got a question or simply curios? Please don't hesitate in <a href="mailto:pclink1@y7mail.com">Emailing me</a>. I love to hear from random people. A simple hello email from you might be good enough to put a smile on my face and make my day; you never know!  
+Still got a question or simply curios? Please don't hesitate in <a href="mailto:pclink1@y7mail.com">emailing me</a>. I love to hear from random people. A simple hello email from you might be good enough to put a smile on my face and make my day; you never know!  
