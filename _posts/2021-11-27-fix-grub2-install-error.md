@@ -29,7 +29,7 @@ Well, solution for this problem is very very simple. You only have to append the
 ```bash
 sudo grub-install --force /dev/sda1
 ```
-And this should hopefully install Grub2 onto the code>sda1</code> partition.  
+And this should hopefully install Grub2 onto the <code>sda1</code> partition.  
 
 Happy booting!  
 
