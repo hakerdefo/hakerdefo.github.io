@@ -7,7 +7,10 @@ excerpt: You want to install Grub2 bootloader onto a partition on your system's 
 
 ## Problem:
 
-You want to install Grub2 bootloader onto a partition on your system's hard-disk but the installation is failing with an error message saying, "grub-install: error: will not proceed with blocklists". You are clueless about this particular error and don't know how to fix this issue. Well, worry not! It only takes a singe flag to fix this error! Really, you only have to append a single flag to the Grub2 install command to solve this.  
+You want to install Grub2 bootloader onto a partition on your system's hard-disk but the installation is failing with an error message saying,  
+> grub-install: error: will not proceed with blocklists.
+
+You are clueless about this particular error and don't know how to fix this issue. Well, worry not! It only takes a singe flag to fix this error! Really, you only have to append a single flag to the Grub2 install command to solve this.  
 
 ## Solution:
 
