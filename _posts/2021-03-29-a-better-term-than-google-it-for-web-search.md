@@ -2,6 +2,7 @@
 layout: post
 title: A better term than "Google it" for web search
 categories: [internet, duckduckgo]
+slug: term-google-it-alternative
 excerpt: There has to be a better term than "Google it" when referring to a web search to be performed on search engine other than Google like DuckDuckGo.
 ---
 
