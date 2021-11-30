@@ -2,6 +2,7 @@
 layout: post
 title: The Summer Song
 categories: [song, original]
+slug: the-summer-song
 ---
 
 Summer morning sheds sweet dew  
