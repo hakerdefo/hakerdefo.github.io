@@ -2,6 +2,7 @@
 layout: post
 title: The Pandemic Song
 categories: [song, original]
+slug: the-pandemic-song
 ---
 
 Take me to a place  
