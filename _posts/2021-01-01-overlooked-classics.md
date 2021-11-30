@@ -3,6 +3,7 @@ layout: post
 title: Overlooked Classics (Spotify Playlist)
 spotifyplaylist: 2iaDUy0RVHVy2XxvQFnEBc
 categories: [playlist, spotify]
+slug: overlooked-classics-spotify-playlist
 excerpt: You can tell a lot about a person by what’s on their playlist.
 ---
 
