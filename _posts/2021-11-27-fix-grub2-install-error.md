@@ -2,6 +2,7 @@
 layout: post
 title: How to fix Grub2 install error
 categories: [how-to, grub2]
+slug: fix-grub2-install-error
 excerpt: You want to install Grub2 bootloader onto a partition on your system's hard-disk but the installation is failing with an error message complaining about something called blocklists and you are 100% clueless about this blocklists thing and don't know how to fix this issue. Well, worry not! It only takes a singe flag to fix this error!
 ---
 
