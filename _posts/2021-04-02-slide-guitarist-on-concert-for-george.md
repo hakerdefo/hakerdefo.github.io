@@ -2,6 +2,7 @@
 layout: post
 title: Slide guitarist on "My Sweet Lord"
 categories: [youtube, guitar]
+slug: slide-guitar-my-sweet-lord
 excerpt: Who played the slide guitar on <u>My Sweet Lord</u> from <u>Concert for George</u>?
 ---
 
