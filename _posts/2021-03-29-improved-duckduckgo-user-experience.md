@@ -2,6 +2,7 @@
 layout: post
 title: Improved DuckDuckGo user experience
 categories: [internet, duckduckgo]
+slug: better-duckduckgo-experience
 excerpt: A few tweaks, tricks and settings rolled into one URL to make for a slightly improved DuckDuckGo user experience.
 ---
 
