@@ -2,6 +2,7 @@
 layout: post
 title: Custom Ubuntu install without bloat
 categories: [how-to, ubuntu]
+slug: custom-ubuntu-install
 excerpt: How to install Ubuntu without bloat & turn it into a fast, full-featured desktop with best applications?
 ---
 
