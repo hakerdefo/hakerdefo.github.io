@@ -2,6 +2,7 @@
 layout: post
 title: The most insecure person in India
 categories: [india, psychology]
+slug: most-insecure-person-india
 excerpt: Skeletons in your closet makes you insecure. This insecurity breeds paranoia and insomnia. You become anxious and irrational. You find falling and staying asleep very hard.
 ---
 
