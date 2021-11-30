@@ -2,6 +2,7 @@
 layout: post
 title: Black Corona (song)
 categories: [song, original]
+slug: black-corona-song
 ---
 
 Nigga never got paid  
