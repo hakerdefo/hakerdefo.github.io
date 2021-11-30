@@ -2,6 +2,7 @@
 layout: post
 title: How to use AhaDNS
 categories: [how-to, DNS]
+slug: ahadns-tutorial
 excerpt: Wanna say Aha to a safer internet? Wanna get rid of those ads, malwares, trackers, viruses & telemetry? Alright then, AhaDNS is here for you.   
 ---
 
