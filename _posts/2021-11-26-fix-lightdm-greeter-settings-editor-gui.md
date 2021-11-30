@@ -2,6 +2,7 @@
 layout: post
 title: How to fix LightDM GTK+ Greeter Settings editor GUI not opening issue
 categories: [how-to, lightdm]
+slug: fix-lightdm-editor-gui
 excerpt: You want to customize LightDM Greeter but the settings editor GUI for LightDM GTK+ Greeter won't open after you have entered your password in the prompt dialogue. You are sure that every dependency is satisfied and you are not entering the wrong password. What could be wrong here and how to fix this issue?
 ---
 
