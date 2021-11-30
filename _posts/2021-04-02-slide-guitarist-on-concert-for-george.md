@@ -12,6 +12,8 @@ Who played the slide guitar on this live performance?
 <div class="plyr__video-embed" id="player">
   <iframe
     src="https://www.youtube.com/embed/1EORbL8N-R8?playlist=1EORbL8N-R8,GdcSGxXJ8vM,TPO1zwuAe0g,o6iaSWSB7rE,Xl-BNTeJXjw,CrTMc2i6Lzc&noCookie=true&amp;iv_load_policy=3&amp;modestbranding=1&amp;playsinline=1&amp;showinfo=0&amp;rel=0&amp;enablejsapi=1;loading=lazy"
+    width="640"
+    height="480"
     allow="fullscreen"
     allow="transparency"
     allow="autoplay"
