@@ -2,6 +2,7 @@
 layout: post
 title: Machine gun Road (short story)
 categories: [story, original]
+slug: machine-gun-road-story
 ---
 
 > Fiction is fact distilled into truth.  
