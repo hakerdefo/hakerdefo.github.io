@@ -2,6 +2,7 @@
 layout: post
 title: How to fix gem install error
 categories: [how-to, gem]
+slug: fix-gem-install-error
 excerpt: You are trying to install a Ruby gem but installation is failing with an error "Failed to build gem native extension". What is causing this error and what is the solution?
 ---
 
