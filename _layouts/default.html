@@ -88,7 +88,8 @@
 
     <script defer src="https://cdn.plyr.io/3.6.8/plyr.js"></script>
     <script>
-      const player = new Plyr('#player');
+      const player = new Plyr('#player', {});
+      window.player = player;
     </script>
 
     <script src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js"></script>
