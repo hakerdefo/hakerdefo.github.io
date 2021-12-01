@@ -3,14 +3,20 @@ layout: post
 title: Slide guitarist on "My Sweet Lord"
 categories: [youtube, guitar]
 slug: slide-guitar-my-sweet-lord
-excerpt: Who played the slide guitar on <u>My Sweet Lord</u> from <u>Concert for George</u>?
+excerpt: Who played the slide guitar on My Sweet Lord from Concert for George?
 ---
 
 A friend of mine recently watched <u>My Sweet Lord</u> from <u>Concert for George</u>. The concert was held at Royal Albert Hall in London on 29 November 2002 as a memorial to George Harrison on the first anniversary of his death. My friend loved this live rendition of the classic by George Harrison. But he did have a question,  
 Who played the slide guitar on this live performance?  
 
-{% include youtube-embed.html video_id="1EORbL8N-R8" %}
-
+<div class="plyr__video-embed" id="player">
+  <iframe
+    src="https://www.youtube.com/embed/1EORbL8N-R8?playlist=1EORbL8N-R8,GdcSGxXJ8vM,TPO1zwuAe0g,o6iaSWSB7rE,Xl-BNTeJXjw,CrTMc2i6Lzc&loading=lazy"
+    allowfullscreen
+    allowtransparency
+  ></iframe>
+</div>
+<br>
 George Harrison played the slide guitar on the original version but obviously he can't be the guy playing the slide guitar here.  
 The usual suspect Eric Clapton can easily be seen playing a 12-string acoustic guitar so he too can't be the slide guitarist on this one.  
 George's son Dhani can be seen playing an acoustic guitar so he can be ruled out too.  
