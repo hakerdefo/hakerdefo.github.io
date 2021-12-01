@@ -9,7 +9,7 @@ excerpt: Who played the slide guitar on <u>My Sweet Lord</u> from <u>Concert for
 A friend of mine recently watched <u>My Sweet Lord</u> from <u>Concert for George</u>. The concert was held at Royal Albert Hall in London on 29 November 2002 as a memorial to George Harrison on the first anniversary of his death. My friend loved this live rendition of the classic by George Harrison. But he did have a question,  
 Who played the slide guitar on this live performance?  
 
-<div class="embed-youtube">
+<div class="container">
 	<div id="player" data-plyr-provider="youtube" data-plyr-embed-id="1EORbL8N-R8"></div>
 </div>
 
