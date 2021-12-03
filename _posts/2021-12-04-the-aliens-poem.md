@@ -11,6 +11,7 @@ who go through life with
 very little  
 friction or  
 distress.  
+<!--more-->
 they dress well, eat  
 well, sleep well.  
 they are contented with  
