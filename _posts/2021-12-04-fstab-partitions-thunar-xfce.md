@@ -20,4 +20,4 @@ And it didn't show up in Thunar. All you need to do now is add <code>comment=x-g
 ```bash
 /dev/sda1	/mnt/sda1	ext4	defaults,noauto,noatime,comment=x-gvfs-show	0	0
 ```
-Save the file once you are done editing and reboot your computer. Rebooting is not strictly necessary as a log-out and log-back-in routine is good enough for most cases. Start Thunar and it'll definitely show those partitions entries now. If it is not, then I'm afraid you'll have to wield your hammer!  
+Save the file once you are done editing and reboot your computer. Rebooting is not strictly necessary as a log-out and log-back-in routine is good enough for most cases. Start Thunar and it'll definitely show those partitions entries now. If it is still not showing those entries, then I'm afraid you'll have to wield your hammer!  
