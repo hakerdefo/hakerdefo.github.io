@@ -9,6 +9,7 @@ Nigga never got paid
 nigga got enslaved  
 nigga got whip-lashed  
 now nigga got corona too  
+<!--more-->
 
 Nigga never got to stars  
 nigga got bullet marks  
