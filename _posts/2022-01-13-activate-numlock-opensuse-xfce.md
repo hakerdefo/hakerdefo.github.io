@@ -29,6 +29,6 @@ Final step is to make a tiny change in the <code>Keyboard</code> settings. You c
 ```bash
 Menu => Settings => Keyboard
 ```
-And in the <code>Keyboard</code> settings window you'll find <code>Restore num lock state on startup</code> option in the <code>General/code> section under the <code>Behavior</code> tab. Enable this by clicking on the check mark box.  
+And in the <code>Keyboard</code> settings window you'll find <code>Restore num lock state on startup</code> option in the <code>General</code> section under the <code>Behavior</code> tab. Enable this by clicking on the check mark box.  
 
 That's it! This will keep numlock on by default all the way from logging screen and onto the Xfce desktop session.  
