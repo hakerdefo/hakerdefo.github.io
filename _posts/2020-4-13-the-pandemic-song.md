@@ -11,6 +11,7 @@ No sirens & screams
 and no pandemic  
 Take me there my dream  
 Take me there my dream  
+<!--more-->
 
 Take me to a place  
 with open views  
