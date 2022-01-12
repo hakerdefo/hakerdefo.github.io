@@ -9,6 +9,7 @@ Summer morning sheds sweet dew
 cloudy window glass  
 birds are singing in the trees  
 morning music class  
+<!--more-->
 
 Summer noon scorch marks the skies  
 reflection on grass  
