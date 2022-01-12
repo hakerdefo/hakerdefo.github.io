@@ -20,7 +20,8 @@ Well, They hate it all the time.
 Maybe they hate our music because they can't understand it?  
 Maybe it's us they hate? our freedom?  
 The local police also hate our music and us.  
-They'll hate us more if they were to find all this shit lying around in the flat.  
+They'll hate us more if they were to find all this shit lying around in the flat.
+<!--more-->
 She would not play music this loudly if it were midnight with all this shit we have.  
 Can't be midnight for sure!  
 Now waking up and looking at the clock won't do me any good as it's been dead for months.  
