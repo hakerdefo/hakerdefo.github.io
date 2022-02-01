@@ -2,7 +2,7 @@
 layout: post
 title: How to boot Arch Linux or Manjaro from Grub2 of other distribution
 categories: [how-to, grub2]
-slug: boot-manjaro-from-other-grub
+slug: boot-arch-manjaro-from-other-grub2
 ---
 
 ## Problem:
@@ -30,7 +30,8 @@ As you can see the real initramfs image is missing and this is the reason the bo
 initrd /boot/intel-ucode.img /boot/initramfs-5.10-x86_64.img
 ```
 
-Solution for this problem involves two steps. First step is to prevent Grub2 from creating menu entry for Manjaro or Arch and then in second step we need to manually chain-load that Manjaro or Arch install. First we need to get UUID of the partition where Arch or Manjaro is installed. One way of finding this is running this command in terminal,
+Solution for this problem involves two steps. First step is to prevent Grub2 from creating menu entry for Manjaro or Arch and then in second step we need to manually chain-load that Manjaro or Arch install.  
+First we need to get UUID of the partition where Arch or Manjaro is installed. One way of finding this is running this command in terminal,
 
 ```bash
 lsblk -f
@@ -42,7 +43,8 @@ I've installed Manjaro on <code>sda1</code> and the UUID of that partition is <c
 GRUB_OS_PROBER_SKIP_LIST="1234567a-ab12-123a-1234-ab12345a1234@/dev/sda1"
 ```
 
-You will need to change the UUID and the partition name as per your system. It's <code>UUID@/dev/partition</code> in short. In our final step we need to manually chain-load the Arch or Manjaro entry in our Grub2 menu. This can be done via editing `/etc/grub.d/40_custom` file. You'll need to convert the partition name to the Grub2 schema but it's not that hard. For example <code>sda1</code> will become <code>hd0,msdos1</code> for MBR partition table and <code>hd0,gpt1</code> for GUID partition table. Similarly <code>sda2</code> will become <code>hd0,msdos2</code> for MBR partition table and <code>hd0,gpt2</code> for GUID partition table and <code>sdb2</code> will become <code>hd1,msdos2</code> for MBR partition table and <code>hd1,gpt2</code> for GUID partition table. In my case Manjaro in installed on <code>sda1</code> and my partition table is MBR so the following code will go into the <code>/etc/grub.d/40_custom</code> file,
+You will need to change the UUID and the partition name as per your system. It's <code>UUID@/dev/partition</code> in short.  
+In our final step we need to manually chain-load the Arch or Manjaro entry in our Grub2 menu. This can be done via editing `/etc/grub.d/40_custom` file. You'll need to convert the partition name to the Grub2 schema but it's not that hard. For example <code>sda1</code> will become <code>hd0,msdos1</code> for MBR partition table and <code>hd0,gpt1</code> for GUID partition table. Similarly <code>sda2</code> will become <code>hd0,msdos2</code> for MBR partition table and <code>hd0,gpt2</code> for GUID partition table and <code>sdb2</code> will become <code>hd1,msdos2</code> for MBR partition table and <code>hd1,gpt2</code> for GUID partition table. In my case Manjaro in installed on <code>sda1</code> and my partition table is MBR so the following code will go into the <code>/etc/grub.d/40_custom</code> file,
 
 ```bash
 menuentry "Manjaro" {
