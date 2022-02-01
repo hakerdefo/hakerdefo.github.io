@@ -2,13 +2,14 @@
 layout: post
 title: How to boot Arch Linux or Manjaro from Grub2 of other distribution
 categories: [how-to, grub2]
-slug: boot-arch-manjaro-other-grub2
+slug: boot-manjaro-from-other-grub
 ---
 
 ## Problem:
 
-You installed Arch Linux or Manjaro or any other Arch derivative but you didn't install Grub2 on the MBR of your HDD as you already have Grub2 installed there and you want to control the boot process from already installed Grub2 instance but booting Arch or Manjaro via that Grub2 menu is ending in kernel panic.  
+You installed Arch Linux or Manjaro or any other Arch derivative but you didn't install Grub2 on the MBR of your HDD as you already have Grub2 installed there and you want to control the boot process from already installed Grub2 instance but booting Arch or Manjaro via that Grub2 menu is ending in kernel panic.
 <!--more-->
+
 ## Solution:
 
 I recently installed Manjaro and during the install process, chose to install Grub2 on the root partition instead of MBR as I already have Grub2 installed there and I wanted to keep it that way. After installation, I booted into my Debian install which controls the Grub2 on the MBR and ran,
