@@ -8,6 +8,7 @@ slug: boot-arch-manjaro-other-grub2
 ## Problem:
 
 You installed Arch Linux or Manjaro or any other Arch derivative but you didn't install Grub2 on the MBR of your HDD as you already have Grub2 installed there and you want to control the boot process from already installed Grub2 instance but booting Arch or Manjaro via that Grub2 menu is ending in kernel panic.  
+<!--more-->
 
 ## Solution:
 
