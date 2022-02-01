@@ -62,6 +62,9 @@ footer_links:
 # Enter your copyright text if you wish to override the default one.
 #copyright: "This site is made with <3 by *me, myself, and I*."
 
+# Time zone
+timezone: Asia/Kolkata
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
