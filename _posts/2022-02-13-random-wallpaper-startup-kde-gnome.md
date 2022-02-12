@@ -21,13 +21,13 @@ First thing that we need to do is create a hidden directory <code>.default-backg
 mkdir $HOME/Pictures/Backgrounds/.default-background
 ```
 
-Next, we need to create a <code>link</code> with the name of <code>default_background.jpeg</code> in this hidden directory to a wallpaper in the wallpaper directory. For this example I'm gonna pick a wallpaper image called <code>there-is-no-cloud.jpeg</code>,  
+Next, we need to create a <code>link</code> with the name of <code>default_background.jpeg</code> in this hidden directory to any wallpaper image file in the wallpaper directory. For this example I'm gonna pick a wallpaper image called <code>there-is-no-cloud.jpeg</code>,  
 
 ```bash
 ln -Pfn $HOME/Pictures/Backgrounds/there-is-no-cloud.jpeg $HOME/Pictures/Backgrounds/.default-background/default_background.jpeg
 ```
 
-Now, right click on KDE Plasma desktop and select <code>Configure Desktop and Wallpaper...</code>. Next, under the <code>Wallpaper</code> tab, click on <code>Add Image</code> option and select this link, <code>default_background.jpeg</code>, that we have just created by navigating to the <code>$HOME/Pictures/Backgrounds/.default-background</code> directory. After adding this, select it and hit the <code>Apply</code> button to set it as the desktop wallpaper.  
+Now, right click on KDE Plasma desktop and select <code>Configure Desktop and Wallpaper...</code>. Next, under the <code>Wallpaper</code> tab, click on <code>Add Image</code> option and select the link, <code>default_background.jpeg</code>, that we have just created by navigating to the <code>$HOME/Pictures/Backgrounds/.default-background</code> directory. After adding this, select it and hit the <code>Apply</code> button to set it as the desktop wallpaper.  
 For our final step we need to create an empty file called <code>random_background.sh</code> in <code>/etc/X11/xinit.d</code> directory and make it executable,  
 
 ```bash
