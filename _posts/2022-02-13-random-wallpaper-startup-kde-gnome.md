@@ -21,7 +21,7 @@ First thing that we need to do is create a hidden directory <code>.default-backg
 mkdir $HOME/Pictures/Backgrounds/.default-background
 ```
 
-Next, we need to create a <code>link</code> with the name of <code>default_background.jpeg</code>in this hidden directory to a wallpaper in the wallpaper directory. For this example I'm gonna pick a wallpaper image called <code>there-is-no-cloud.jpeg</code>,  
+Next, we need to create a <code>link</code> with the name of <code>default_background.jpeg</code> in this hidden directory to a wallpaper in the wallpaper directory. For this example I'm gonna pick a wallpaper image called <code>there-is-no-cloud.jpeg</code>,  
 
 ```bash
 ln -Pfn $HOME/Pictures/Backgrounds/there-is-no-cloud.jpeg $HOME/Pictures/Backgrounds/.default-background/default_background.jpeg
@@ -57,7 +57,7 @@ fi
 Save the changes to the file.  
 That's it! From now on, every time you log-in to a new session you'll be greeted by a new wallpaper.  
 
-This can easily be adapted to work on GNOME and other Desktop environments without any changes so I won't go into them.  
+This can easily be adapted to work on GNOME and other desktop environments without any changes so I won't go into them.  
 
 Just in case, someone was curious about that <code>there-is-no-cloud.jpeg</code> wallpaper,  
 
