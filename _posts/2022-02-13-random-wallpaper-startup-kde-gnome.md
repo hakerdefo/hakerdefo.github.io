@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Set a random wallpaper at startup in KDE Plasma & GNOME
+title: Set a random wallpaper at startup in KDE Plasma
 categories: [wallpaper, KDE]
 slug: random-wallpaper-startup-kde-gnome
 ---
@@ -28,11 +28,11 @@ ln -Pfn $HOME/Pictures/Backgrounds/there-is-no-cloud.jpeg $HOME/Pictures/Backgro
 ```
 
 Now, right click on KDE Plasma desktop and select <code>Configure Desktop and Wallpaper...</code>. Next, under the <code>Wallpaper</code> tab, click on <code>Add Image</code> option and select the link, <code>default_background.jpeg</code>, that we have just created by navigating to the <code>$HOME/Pictures/Backgrounds/.default-background</code> directory. After adding this, select it and hit the <code>Apply</code> button to set it as the desktop wallpaper.  
-For our final step we need to create an empty file called <code>random_background.sh</code> in <code>/etc/X11/xinit.d</code> directory and make it executable,  
+For our final step we need to create an empty file called <code>random_background.sh</code> in <code>/etc/X11/xinit/xinitrc.d</code> directory and make it executable,  
 
 ```bash
-sudo touch /etc/X11/xinit.d/random_background.sh
-sudo chmod 755 /etc/X11/xinit.d/random_background.sh
+sudo touch /etc/X11/xinit/xinitrc.d/random_background.sh
+sudo chmod 755 /etc/X11/xinit/xinitrc.d/random_background.sh
 ```
 
 Open this empty file as root or with sudo permissions in your favorite text-editor and paste the following code snippet into it,  
@@ -55,9 +55,8 @@ fi
 ```
 
 Save the changes to the file.  
-That's it! From now on, every time you log-in to a new session you'll be greeted by a new wallpaper.  
 
-This can easily be adapted to work on GNOME and other desktop environments without any changes so I won't go into them.  
+That's it! From now on, every time you log-in to a new session you'll be greeted by a new wallpaper.  
 
 Just in case, someone was curious about that <code>there-is-no-cloud.jpeg</code> wallpaper,  
 
