@@ -58,6 +58,26 @@ Save the changes to the file.
 
 That's it! From now on, every time you log-in to a new session you'll be greeted by a new wallpaper.  
 
+
+On certain GNU/Linux distributions, the directory <code>/etc/X11/xinit/xinitrc.d</code> might not be present. In such a scenario, you'll need to create <code>random_background.sh</code> file in the <code>/usr/local/bin</code> directory and after pasting the above mentioned code into it, make it executable as described earlier. After doing that, you'll need to create <code>random_background.desktop</code> file in either <code>~/.config/autostart</code> directory or <code>/etc/xdg/autostart</code> directory and add the following snippet to it,  
+
+```bash
+[Desktop Entry]
+Type=Application
+Name=Random_Wallpaper
+TryExec=/usr/local/bin/random_background.sh
+Exec=/usr/local/bin/random_background.sh
+StartupNotify=false
+NoDisplay=true
+```
+
+After saving the file, you'll need to enable/add <code>Random_Wallpaper</code> to your desktop session startup list. The procedure varies between different desktop environments but here is how you can navigate to <code>autostart</code> setting on a few popular desktop environments,  
+
+KDE  => <code>System Settings > Startup and Shutdown > Autostart</code>  
+Xfce => <code>Menu > Settings > Settings Manager > Session and Startup > Application Autostart</code>  
+LXQt => <code>Menu > Preferences > LXQt Settings > Session Settings</code>  
+
+
 Just in case, someone was curious about that <code>there-is-no-cloud.jpeg</code> wallpaper,  
 
 ![There Is No Cloud](https://static.fsf.org/nosvn/stickers/thereisnocloud.svg "There Is No Cloud")
