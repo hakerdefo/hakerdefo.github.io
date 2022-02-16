@@ -81,14 +81,14 @@
             {% else %}
             <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.name }}. Powered by <a href="https://github.com/forever-jekyll/forever-jekyll" rel="nofollow">Forever Jekyll</a>.</p>
             {% endif %}
-          </div>    
+          </div>
         </footer>
       </div>
     </div>
 
     <script defer src="https://cdn.plyr.io/3.6.5/plyr.js"></script>
     <script>
-      const player = Plyr.setup("#player", { noCookie: true, rel: 0, showinfo: 0, iv_load_policy: 3, modestbranding: 1, playsinline: 1 , enablejsapi: 1, autoplay: 0, focused: true, global: false });
+      const player = new Plyr("#player", { noCookie: true, rel: 0, showinfo: 0, iv_load_policy: 3, modestbranding: 1, playsinline: 1 , enablejsapi: 1, autoplay: 0, focused: true, global: false });
       window.player = player;
     </script>
 
