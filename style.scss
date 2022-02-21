@@ -265,7 +265,7 @@ blockquote {
 pre,
 code {
   font-family: $code-font-family !important;
-  font-size: 16px !important;
+  font-size: 14px !important;
   color: #586e75;
   border: 01px solid #dddddd;
   border-radius: 03px;
@@ -342,30 +342,30 @@ table {
   border-collapse: collapse;
   overflow-x: auto;
   border: 01px solid #dddddd;
-  
+
   & + table {
     margin-top: 30px;
   }
-  
+
   tr {
     &:nth-child(even) {
       background-color: #efefef;
     }
   }
-  
+
   th, td {
     padding: 10px 15px;
   }
-  
+
   th {
     background-color: #efefef;
     border: 01px solid #dddddd;
   }
-  
+
   td {
     border: 01px solid #dddddd;
   }
-  
+
   tr,
   td,
   th {
@@ -567,7 +567,7 @@ a.nav-menu-item:focus {
   }
 
   .reading-time {
-    text-transform: uppercase;  
+    text-transform: uppercase;
     font-size: 14px !important;
     color: $mahogany;
   }
@@ -592,7 +592,7 @@ footer {
     display: inline-block;
     padding: 0 04px;
     color: $gray;
-    
+
       &:hover {
       color: $darkGray;
       }
