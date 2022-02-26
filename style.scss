@@ -488,6 +488,8 @@ a[href^="#fnref:"] {
 nav {
     font-family: $sans-font-family;
     font-size: 18px !important;
+    color: $gray;
+    font-weight: 400;
 
     @include mobile {
         float: none;
@@ -498,9 +500,7 @@ nav {
 
     a {
         margin-left: 20px;
-        color: $gray;
         text-align: right;
-        font-weight: 400;
         letter-spacing: 01px;
 
         &:hover {
