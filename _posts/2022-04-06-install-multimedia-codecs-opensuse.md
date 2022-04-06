@@ -6,6 +6,7 @@ slug: install-multimedia-codecs-opensuse
 ---
 
 openSUSE doesn’t include proprietary and patented software by default. Many codecs required to decode and play some common and popular multimedia formats, hence aren’t available, and those multimedia files can’t be played. A third party repository, called Packman, provides these missing codecs for openSUSE. Adding the Packman repository and installing all the necessary multimedia codecs is a relatively straightforward task. Here is how you can do it,   
+<!--more-->
 
 Open your favorite terminal emulator and run the following commands in the given order,  
 
