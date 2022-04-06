@@ -24,9 +24,9 @@ Wanna know something more about me? Well, I'm a just another guy on the vast oce
 - I use Mutt and SeaMonkey to manage my emails.  
 - cmus and MOC are my preferred audio players.  
 - mpv is what I use to watch videos.  
-- I use viewnior and mtPaint to work with photographs and images.  
+- I use viewnior, mtPaint and ImageMagick to work with photographs and images.  
 - I love messing around with code. I'm not a programmer by any means but hack, I like to hack.  
 - And last but not the least, I use Git for managing my code.  
 
 <p></p>
-Still got a question or simply curios? Please don't hesitate in <a href="mailto:pclink1@y7mail.com">emailing me</a>. I love to hear from random people. A simple hello email from you might be good enough to put a smile on my face and make my day; you never know!  
+Still got a question or simply curious? Please don't hesitate in <a href="mailto:pclink1@y7mail.com">emailing me</a>. I love to hear from random people. A simple hello email from you might be good enough to put a smile on my face and make my day; you never know!  
