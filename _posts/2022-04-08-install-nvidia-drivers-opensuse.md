@@ -17,7 +17,7 @@ sudo zypper addrepo --refresh https://download.nvidia.com/opensuse/tumbleweed NV
 If you are running openSUSE leap, run the following command instead,  
  
 ```bash
-zypper addrepo --refresh https://download.nvidia.com/opensuse/leap/$releasever NVIDIA
+sudo zypper addrepo --refresh https://download.nvidia.com/opensuse/leap/$releasever NVIDIA
 ```
 
 Next you need to identify the model of your NVIDIA graphics card. To do so, run the following command,  
