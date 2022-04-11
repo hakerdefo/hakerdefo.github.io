@@ -138,5 +138,5 @@ Now someone might ask why not install Lubuntu instead of going through all this 
 
 I'll leave you guys with a screenshot of a working desktop that you'll get after installing Ubuntu using this method.  
 
-![Default Lubuntu Desktop](https://discourse.lubuntu.me/uploads/default/original/1X/16114c085df037446a28b6a7d1f8ef811b0fc73b.jpeg "Example Desktop Screenshot")
+![Default Lubuntu Desktop](https://raw.githubusercontent.com/hakerdefo/hakerdefo.github.io/main/assets/image/lubuntu.webp "Example Desktop Screenshot")
 <figcaption>Screenshot courtesy team Lubuntu</figcaption>
