@@ -19,7 +19,7 @@ sudo apt-get autoclean
 sudo apt-get autoremove
 ```
 
-Now, it's time to start the actual upgrade process. First, we need to rename the current sources.list file and create a new sources.list file for Ubuntu 22.04 LTS (Jammy Jellyfish). To do so, run these commands,  
+Now, it's time to start the actual upgrade process. First, we need to rename the current **sources.list** file and create a new **sources.list** file for Ubuntu 22.04 LTS (Jammy Jellyfish). To do so, run these commands,  
 
 ```bash
 sudo mv /etc/apt/sources.list /etc/apt/sources.list.bak
@@ -45,7 +45,7 @@ deb http://archive.canonical.com/ubuntu jammy partner
 # deb-src http://archive.canonical.com/ubuntu jammy partner
 ```
 
-Log-out of your current session and press <code>Ctrl</code>+<code>Alt</code>+<code>F2</code> keys together to switch to tty2 and log-in to your user account there and let the upgrade rollercoaster begin by running these commands,  
+Log out of your current session and press <code>Ctrl</code>+<code>Alt</code>+<code>F2</code> keys together to switch to **tty2** and log in to your user account there and let the upgrade rollercoaster begin by running these commands,  
 
 ```bash
 sudo apt-get update
@@ -63,13 +63,13 @@ sudo shutdown -r now
 
 If nothing went south during the above process, you should be able to boot into your shiny-new Ubuntu 22.04 LTS (Jammy Jellyfish) now.  
 
-Ubuntu 22.04 LTS (Jammy Jellyfish) ships with a Snap package of Mozilla Firefox instead of traditional Deb package. During my upgrade process, the updater failed to connect to the Snap Store and presented me with three choices; Retry, Skip or Abort the upgrade. I selected Retry option several times but the same error prevailed so I went with the Skip option and after the upgrade process completed, I rebooted the machine and manually installed the Mozilla Firefox,  
+Ubuntu 22.04 LTS (Jammy Jellyfish) ships with a **Snap** package of Mozilla Firefox instead of traditional **Deb** package. During my upgrade process, the updater failed to connect to the **Snap Store** and presented me with three choices; **Retry**, **Skip** or **Abort** the upgrade. I selected the **Retry** option several times, but the same error prevailed, so I went with the **Skip** option and after the upgrade process completed, I rebooted the machine and manually installed the Mozilla Firefox,  
 
 ```bash
 sudo apt-get --no-install-recommends install firefox
 ``` 
 
-The above command will install Firefox. Be aware that the above command might take some time to complete and it's not really a verbose process so enjoy a cup of tea or coffee while it completes.  
+The above command will install Firefox. Be aware that the above command might take some time to complete, and it's not really a verbose process, so enjoy a cup of tea or coffee while it completes.  
 
 ![Ubuntu Jammy Jellyfish")](https://raw.githubusercontent.com/hakerdefo/hakerdefo.github.io/main/assets/image/jammy_jellyfish.webp "Ubuntu Jammy Jellyfish")
 <figcaption>Image courtesy Hsingchien Cheng</figcaption>  
