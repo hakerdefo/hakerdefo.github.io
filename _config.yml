@@ -51,10 +51,6 @@ footer_links:
     url: mailto:pclink1@y7mail.com
     icon: fa fa-envelope-square
 
-  - title: Mastodon
-    url: https://fosstodon.org/@hakerdefo
-    icon: fa fa-mastodon-square
-
   - title: GitHub
     url: https://github.com/hakerdefo
     icon: fa fa-github-square
