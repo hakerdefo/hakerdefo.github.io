@@ -52,7 +52,7 @@ footer_links:
     icon: fa fa-envelope-square
 
   - title: Mastodon
-    url: https://fosstodon.org/@hakerdefo
+    url: <a rel="me" href="https://fosstodon.org/@hakerdefo">Mastodon</a>
     icon: fa fa-mastodon-square
 
   - title: GitHub
