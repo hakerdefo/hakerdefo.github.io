@@ -55,10 +55,6 @@ footer_links:
     url: https://github.com/hakerdefo
     icon: fa fa-github-square
 
-  - title: Mastodon
-    url: https://fosstodon.org/@hakerdefo
-    icon: fa fa-mastodon-square
-
 # Enter your copyright text if you wish to override the default one.
 #copyright: "This site is made with <3 by *me, myself, and I*."
 
