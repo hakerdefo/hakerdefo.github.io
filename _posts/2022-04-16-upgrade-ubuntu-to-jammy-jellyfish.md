@@ -73,5 +73,5 @@ The above command will install Firefox. Be aware that the above command might ta
 
 Personally, the whole upgrade process went almost buttery smooth for me, barring the small **Snap Store** connectivity hitch. I was more than impressed to say the least and considering the fact that Ubuntu 22.04 LTS (Jammy Jellyfish) is still in Beta while I performed the upgrade, the developer team of Ubuntu deserves a plenty of kudos for their work.  
 
-![Ubuntu Jammy Jellyfish")](https://raw.githubusercontent.com/hakerdefo/hakerdefo.github.io/main/assets/image/jammy_jellyfish.webp "Ubuntu Jammy Jellyfish")
+![Ubuntu Jammy Jellyfish](https://raw.githubusercontent.com/hakerdefo/hakerdefo.github.io/main/assets/image/jammy_jellyfish.webp "Ubuntu Jammy Jellyfish")
 <figcaption>Image courtesy Hsingchien Cheng</figcaption>  
