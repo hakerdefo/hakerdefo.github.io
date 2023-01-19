@@ -18,9 +18,9 @@ Let's assume that you are configuring an interface named <code>eth0</code>. We n
 ip link show
 ```
 
-The above command will list all interfaces names and their MAC addresses. Note down the MAC address of the interface that you wish to rename to <code>eth0</code>. Let's assume that the MAC address is <code>b4:96:91:14:ae:5a</code>.  
+The above command will list all interfaces names and their MAC addresses. Note down the MAC address of the interface that you wish to rename. Let's assume that the MAC address is <code>b4:96:91:14:ae:5a</code>.  
 
-Now we need to modify the <code>/etc/network/interfaces</code> file slightly. Your <code>/etc/network/interfaces</code> file currently looks something like this,     
+Now we need to modify the <code>/etc/network/interfaces</code> file slightly. Your <code>/etc/network/interfaces</code> file currently should look something like this,     
 
 ```bash
 # This file describes the network interfaces available on your system
@@ -41,7 +41,7 @@ iface eth0 inet6 auto
 
 ```
 
-In the above file, we need to change <code>eth0</code> to something else, something more predictable that doesn't conflict with the kernel's naming schema. For this example, I'm going to rename <code>eth0</code> to <code>internal0</code>. You can use any other name if you wish. The <code>/etc/network/interfaces</code> file will look like the following after this change,  
+In the above file, we need to change <code>eth0</code> to something else, something more predictable that doesn't conflict with the kernel's naming schema. For this example, I'm going to rename <code>eth0</code> to <code>internal0</code>. You can use any other name if you wish. The <code>/etc/network/interfaces</code> file will look something like the following after this change,  
 
 ```bash
 # This file describes the network interfaces available on your system
@@ -79,9 +79,9 @@ Name=internal0
 
 ```
 
-Of course, you'll need to change <code>b4:96:91:14:ae:5a</code> and <code>internal0</code> above with the MAC address of the interface you are configuring and the new persistent name you have given to it.  
+Of course, you'll need to change <code>b4:96:91:14:ae:5a</code> and <code>internal0</code> above with the MAC address of the interface you are configuring and the new persistent name you wish to give to it.  
 
-Save the file and reboot the machine. Reboot is essential here to make this changes effective.  
+Save the file and reboot the machine. Reboot is essential here for these changes to take effect.  
 
 I hope this will be of help to a soul or two out there.  
 
