@@ -7,7 +7,7 @@ slug: persistent-network-interfaces-names-debian
 
 ## Problem:
 
-You have configured the network in your Debian install via the <code>/etc/network/interfaces</code> file and everything seems to work, except the name of your configured network interface keeps changing after every reboot and that is resulting in the network being down. How do you assign persistent network interface names to fix this issue?  
+You have configured the network in your Debian install via the <code>/etc/network/interfaces</code> file and everything seems to work, except the name of your configured network interface keeps changing after every reboot and that is resulting in the network being down. How do you assign persistent network interface name to fix this issue?  
 <!--more-->
 
 ## Solution:
