@@ -55,7 +55,7 @@ echo "set menu_color_normal=white/black"
 echo "set menu_color_highlight=green/black"
 ```
 
-GRUB2 treats the color <code>black</code> differently when it is set as a background color, like in the above example <code>color_normal=white/black</code>. In such a case, black is considered a value for <code>transparency</code> and the underlying image will be visible rather than the color black.  
+GRUB2 treats the color <code>black</code> differently when it is set as a background color, like in the above example <code>color_normal=white/black</code>. In such a case, <code>black</code> is considered a value for <code>transparency</code> and the underlying image will be visible rather than the color <code>black</code>.  
 
 Save the file.  
 
@@ -78,7 +78,7 @@ sudo grub2-mkconfig -o /boot/grub2/grub.cfg
 
 Reboot the machine to test your newly spiced up Grub2 screen.  
 
-Rather than rebooting to test various color combinations, you can play with various colors by using GRUB2's command line during the boot process. When the GRUB2 screen appears, press any key to stop the countdown timer and press <code>c</code> to enter the GRUB2 command line. You can play around with different color combinations by running <code>set</code> command with different Grub2 color options like this,  
+Rather than rebooting to test various color combinations, you can play with various colors by using GRUB2's command line during the boot process. When the GRUB2 screen appears, press any key to stop the countdown timer and press <code>C</code> to enter the GRUB2 command line. You can play around with different color combinations by running <code>set</code> command with different Grub2 color options like this,  
 
 ```bash
 set color_normal=yellow/black  
@@ -87,9 +87,8 @@ set menu_color_normal=black/light-gray
 set menu_color_highlight=yellow/dark-gray  
 ```
 
-Changes made to the font colors are applied immediately after the command. Pressing the <code>Esc</code> key will return you to the main Grub2 screen, and here you can view the full effect of changes made to the look of the Grub2 menu screen. You can press <code>c</code> again to go back to the command line and test some more color combinations if you wish. Please remember that the changes made via the Grub2 command line are not saved, and the settings will get restored to their defaults once you leave the Grub2 menu screen. You'll need to make these changes permanent using the method discussed above in the article.  
+Changes made to the font colors are applied immediately after the command. Pressing the <code>Esc</code> key will return you to the main Grub2 screen, and here you can view the full effect of changes made to the look of the Grub2 menu screen. You can press <code>C</code> again to go back to the command line and test some more color combinations if you wish. Please remember that the changes made via the Grub2 command line are not saved, and the settings will get restored to their defaults once you leave the Grub2 menu screen. You'll need to make these changes permanent using the method discussed above in the article.  
 
 If you want to create a complete Grub2 theme from the scratch, I highly encourage you to read this article by Vladimir Testov,  
 
-http://wiki.rosalab.ru/en/index.php/Grub2_theme_tutorial  
-
+[Grub2 theme tutorial by Vladimir Testov](http://wiki.rosalab.ru/en/index.php/Grub2_theme_tutorial){:target="_blank"}  
