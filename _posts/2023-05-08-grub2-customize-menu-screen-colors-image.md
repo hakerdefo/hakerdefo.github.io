@@ -64,11 +64,20 @@ Now let's add an image to the background of Grub2 menu screen. Grub2 supports <c
 ![Grub2 Background Image](https://raw.githubusercontent.com/hakerdefo/hakerdefo.github.io/main/assets/image/grub_demo_background.jpg "Grub2 Background Image")
 <figcaption>Image courtesy Máirín Duffy</figcaption>  
 
-You can download and use the above image, or you can use any other image if you wish. Copy the image to either <code>/usr/share/backgrounds</code> or <code>/usr/share/wallpapers</code> directory. For this example, I'm gonna call this image <code>grub_demo_background.jpg</code> and save it in the <code>/usr/share/backgrounds</code> directory. Next, open the file <code>/etc/default/grub</code> in your favorite text-editor and append this line to it and save the file,  
+You can download and use the above image, or you can use any other image if you wish. Copy the image to either <code>/usr/share/backgrounds</code> or <code>/usr/share/wallpapers</code> directory. For this example, I'm gonna call this image <code>grub_demo_background.jpg</code> and save it in the <code>/usr/share/backgrounds</code> directory. Next, open the file <code>/etc/default/grub</code> in your favorite text-editor and append this line to it,  
 
 ```bash
 GRUB_BACKGROUND=/usr/share/backgrounds/grub_demo_background.jpg
 ```
+
+Also, make sure that the <code>GRUB_TERMINAL</code> and <code>GRUB_GFXMODE</code> variables are uncommented and set to the following values in this file,  
+
+```bash
+GRUB_TERMINAL="gfxterm"
+GRUB_GFXMODE="auto"
+```
+
+Save the changes made to <code>/etc/default/grub</code> file.  
 
 And, finally, run the following command to apply these changes to the Grub2 configuration,  
 
