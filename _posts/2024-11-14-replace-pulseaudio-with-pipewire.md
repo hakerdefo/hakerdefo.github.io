@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ALT Linux &mdash; How to replace PulseAudio with PipeWire
+title: ALT Linux - How to replace PulseAudio with PipeWire
 categories: [how-to, linux]
 slug: replace-pulseaudio-with-pipewire
 ---
