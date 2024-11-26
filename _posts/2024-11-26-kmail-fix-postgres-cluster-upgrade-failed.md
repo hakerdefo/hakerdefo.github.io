@@ -12,20 +12,19 @@ After a recent update on Calculate Linux (Gentoo-based), KMail stopped launching
 Postgres db cluster upgrade failed, Akonadi will fail to start. Sorry.
 ```
 
-The update process has bumped up PostgreSQL from version 16 to 17, and that's where the problem lies. Fixing this with all the KMail data intact turned out to be a relatively simple task.  
+The update process had bumped up PostgreSQL from version 16 to 17, and that’s where the problem lied. Fixing this with all the KMail data intact turned out to be a relatively simpler task.  
 <!--more-->
 
-For me, the update has removed PostgreSQL version 16, and the data migration process requires both major versions (16 and 17 in my case) to be present on the system, so the first thing to do was install PostgreSQL 16.  
+For me, the update had removed PostgreSQL version 16, and the data migration process requires both major versions (16 and 17 in this case) to be present on the system, so the first thing to do was to install PostgreSQL 16,  
 
 ```bash
 emerge -a1 =dev-db/postgresql-16.5
 ```
 
-After installing it, the next step was to make sure that Akonadi was not running,  
+After installation was completed, the next step was to make sure that Akonadi was not running,  
 
 ```bash
 akonadictl stop
-
 ```
 
 Before starting the data migration process, I backed up the current KMail database,  
@@ -35,13 +34,13 @@ cp -R $HOME/.local/share/akonadi/db_data/ $HOME/.local/share/akonadi/db_data_16
 mv $HOME/.local/share/akonadi/db_data/ $HOME/.local/share/akonadi/db_data_old
 ```
 
-Then it was time to create a new database using the latest version of PostgreSQL (Version 17 here),  
+Then it was time to create a new database using the latest version of PostgreSQL (17 in this case),  
 
 ```bash
 /usr/lib64/postgresql-17/bin/initdb --pgdata=$HOME/.local/share/akonadi/db_data --encoding=UTF-8
 ```
 
-Before starting the actual upgrade, I checked whether the upgrade was safe to carry out,  
+Before starting the actual upgrade, I made sure that the upgrade was safe to carry out,    
 
 ```bash
 /usr/lib64/postgresql-17/bin/pg_upgrade -b /usr/lib64/postgresql-16/bin -B /usr/lib64//postgresql-17/bin -d $HOME/.local/share/akonadi/db_data_old/ -D $HOME/.local/share/akonadi/db_data --check
