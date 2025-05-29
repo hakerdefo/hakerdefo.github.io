@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lyrics for Fleetwood Mac Rhiannon (Official Music Video) version or Live at Studio Instrument Rentals in 1976 version
+title: Lyrics for Fleetwood Mac Rhiannon (Official Music Video) version aka Live at Studio Instrument Rentals in 1976 version
 categories: [lyrics, song]
 slug: lyrics-fleetwood-mac-rhiannon-official-video-live-studio-instrument-rentals-1976
 ---
