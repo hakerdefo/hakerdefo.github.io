@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Lyrics for Fleetwood Mac Rhiannon (Official Music Video) version or: Live at Studio Instrument Rentals in 1976 version
-
+title: Lyrics for Fleetwood Mac Rhiannon (Official Music Video) version or Live at Studio Instrument Rentals in 1976 version
 categories: [lyrics, song]
-slug: lyrics-fleetwood-mac-rhiannon-official-video-live-studio-instrument-rentals-1976.md
+slug: lyrics-fleetwood-mac-rhiannon-official-video-live-studio-instrument-rentals-1976
+excerpt: Lyrics for Fleetwood Mac Rhiannon live at Studio Instrument Rentals in 1976 version
 ---
 
 This article is written on public demand. Fleetwood Mac in general and Stevie Nicks in particular have been perennial favorites. Recently, I shared a video of them performing a live version of their song Rhiannon at Studio Instrument Rentals in 1976 with a few friends, and all of them struggled to understand the lyrics towards the end part where Stevie goes berserk and the performance hits its crescendo. Some of them are smart people, and they tried searching various song lyrics provider websites, yet they were unable to find the lyrics for this particular version. So they requested that I share the lyrics with them, and I obliged, as friends do. One of them suggested that it'd be a good idea if I could put it on my blog, as it'd be accessible to countless others searching for this particular version's lyrics. So, here you go, folks. I've done my best to transcribe the lyrics as accurately as I possibly can, but if you spot any errors, please contact me, and I'll be more than happy to correct them.  
@@ -83,9 +83,13 @@ Dream on, dream on, yeah
 Lyrics by Stevie Nicks  
 
 
-https://www.youtube.com/watch?v=jQAK6sVovUk  
-
-
 > Her Rhiannon in those days was like an exorcism.  
 ~ Mick Fleetwood  
 
+<div class="plyr__video-embed" id="player">
+  <iframe
+    src="https://www.youtube.com/watch?v=jQAK6sVovUk"
+    allowfullscreen
+    allowtransparency
+  ></iframe>
+</div>
