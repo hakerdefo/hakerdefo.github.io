@@ -8,6 +8,8 @@ slug: lyrics-fleetwood-mac-rhiannon-official-video-live-studio-instrument-rental
 This article is written on public demand. Fleetwood Mac in general and Stevie Nicks in particular have been perennial favorites. Recently, I shared a video of them performing a live version of their song Rhiannon at Studio Instrument Rentals in 1976 with a few friends, and all of them struggled to understand the lyrics towards the end part where Stevie goes berserk and the performance hits its crescendo. Some of them are smart people, and they tried searching various song lyrics provider websites, yet they were unable to find the lyrics for this particular version. So they requested that I share the lyrics with them, and I obliged, as friends do. One of them suggested that it'd be a good idea if I could put it on my blog, as it'd be accessible to countless others searching for this particular version's lyrics. So, here you go, folks. I've done my best to transcribe the lyrics as accurately as I possibly can, but if you spot any errors, please contact me, and I'll be more than happy to correct them.  
 <!--more-->
 
+*We think that she was, in fact, Queen and that her memory became the myth. I definitely feel that there's a presence...*
+
 *This is a song about a Welsh witch*
 
 *Rhiannon rings like a bell through the night*  
