@@ -2,11 +2,11 @@
 layout: post
 title: "The Thermodynamics of a Memory"
 date: 2026-09-21
-categories: [rant, science]
+categories: [science, story]
 slug: the-thermodynamics-of-a-memory
 ---
 
-Surat in the late nineties was a city of friction. It was all two and three strokes exhaust, suffocating heat, and the relentless beat of textile looms and hum of the diamond polishers. It was no place for a hurricane, but that’s exactly what she was. 
+Surat in the late nineties was a city of friction. It was all two-stroke exhaust, suffocating heat, and the relentless beat of textile looms and the hum of the diamond polishers. It was no place for a hurricane, but that’s exactly what she was. 
 <!--more-->
 She had been exiled across an ocean, carrying the ghosts of Miami with her to the dusty gates of Dr. S&SS Gandhi College. She was a collision of worlds. Raised among Cubans and Caribbeans, her English possessed a breathless, rhythmic cadence that she constantly tried to edit, though a stray *“mira”* or *“dios mío”* would always bleed through when her brain outpaced her mouth. And her brain was always outpacing everything. To this day, I have never encountered a more terrifyingly brilliant piece of biological machinery. 
 
